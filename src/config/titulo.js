@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Formulación y evaluación de los componentes de estudio para proyectos agroecológicos.'
