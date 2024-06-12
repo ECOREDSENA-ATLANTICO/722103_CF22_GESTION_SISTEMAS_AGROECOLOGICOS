@@ -342,7 +342,7 @@
       .col-lg-7
         p.mt-3 Otra de las variables que es de gran importancia en el estudio de la demanda es el comportamiento del precio del producto a través de los años; para esto una de las formas de determinar los momentos de mayor o de menor oferta y de mejores o menores precios es utilizando las series de volúmenes de producto comercializado y las series de precios al consumidor.
 
-        .bloque-texto-b.color-acento-contenido.p-4
+        .bloque-texto-a.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             h2.mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc.
@@ -452,7 +452,7 @@
 
     .row.mb-4
       .col-lg-10.m-auto
-        .bloque-texto-b.color-acento-contenido.p-4
+        .bloque-texto-a.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             h2.mb-0 La oferta es también una variable que depende de otras, tales como: los costos y disponibilidad de los insumos, las restricciones determinadas por el gobierno, los desarrollos tecnológicos, las alteraciones del clima (especialmente en la oferta agrícola y agroindustrial), los precios de los bienes sustitutos y complementarios, la capacidad instalada de la competencia, etc.
