@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="389" viewBox="0 0 505 389">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_794877" data-name="Trazado 794877" d="M8.994-169.927h4.565v-5.012h4.3v5.012h4.565v4.3H17.856v5.012h-4.3v-5.012H8.994Z" transform="translate(-8.994 174.94)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.057" y1="0.012" x2="0.057" y2="0.044" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.1" stop-color="#030303"/>
+      <stop offset="0.2" stop-color="#0c0c0c"/>
+      <stop offset="0.3" stop-color="#1a1a1a"/>
+      <stop offset="0.4" stop-color="#2c2c2c"/>
+      <stop offset="0.5" stop-color="#3f3f3f"/>
+      <stop offset="0.6" stop-color="#525252"/>
+      <stop offset="0.7" stop-color="#646464"/>
+      <stop offset="0.8" stop-color="#727272"/>
+      <stop offset="0.9" stop-color="#7c7c7c"/>
+      <stop offset="1" stop-color="#7f7f7f"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.057" y1="0.044" x2="0.057" y2="0.076" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0" stop-color="#7f7f7f"/>
+      <stop offset="0.1" stop-color="#7c7c7c"/>
+      <stop offset="0.2" stop-color="#727272"/>
+      <stop offset="0.3" stop-color="#646464"/>
+      <stop offset="0.4" stop-color="#525252"/>
+      <stop offset="0.5" stop-color="#3f3f3f"/>
+      <stop offset="0.6" stop-color="#2c2c2c"/>
+      <stop offset="0.7" stop-color="#1a1a1a"/>
+      <stop offset="0.8" stop-color="#0c0c0c"/>
+      <stop offset="0.9" stop-color="#030303"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_794880" data-name="Trazado 794880" d="M9.3-158.97H20.036v2.292H9.3Z" transform="translate(-9.295 158.97)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.056" y1="0.131" x2="0.056" y2="0.136" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_794884" data-name="Trazado 794884" d="M9.3-146.162H20.036v2.005H9.3Z" transform="translate(-9.295 146.162)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.056" y1="0.197" x2="0.056" y2="0.201" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0.056" y1="0.201" x2="0.056" y2="0.206" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_794888" data-name="Trazado 794888" d="M9.3-111.162H20.036v2.005H9.3Z" transform="translate(-9.295 111.162)" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1085513" data-name="Grupo 1085513" transform="translate(-915 -3522)">
+    <path id="Trazado_795029" data-name="Trazado 795029" d="M0,0H505V389H0Z" transform="translate(915 3522)" fill="#dee4f0"/>
+    <g id="Grupo_1085419" data-name="Grupo 1085419" transform="translate(956 3539.121)">
+      <g id="Grupo_1085419-2" data-name="Grupo 1085419" transform="translate(26.479 0)">
+        <text id="Ingresos_sujetos_a_impuestos" data-name="Ingresos sujetos a impuestos" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ingresos sujetos a impuestos</tspan></text>
+      </g>
+      <g id="Grupo_1085420" data-name="Grupo 1085420" transform="translate(26.479 31.668)">
+        <text id="Egresos_sujetos_a_impuestos" data-name="Egresos sujetos a impuestos" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Egresos sujetos a impuestos</tspan></text>
+      </g>
+      <g id="Grupo_1085421" data-name="Grupo 1085421" transform="translate(26.479 62.069)">
+        <text id="Gastos_no_erogables" data-name="Gastos no erogables" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Gastos no erogables</tspan></text>
+      </g>
+      <g id="Grupo_1085422" data-name="Grupo 1085422" transform="translate(25.988 113.15)">
+        <text id="UTILIDAD_ANTES_DE_IMPUESTOS" data-name="UTILIDAD ANTES DE IMPUESTOS" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">UTILIDAD ANTES DE IMPUESTOS</tspan></text>
+      </g>
+      <g id="Grupo_1085423" data-name="Grupo 1085423" transform="translate(26.479 150.544)">
+        <text id="Impuestos" transform="translate(0 16)" fill="#12263f" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Impuestos</tspan></text>
+      </g>
+      <g id="Grupo_1085424" data-name="Grupo 1085424" transform="translate(25.988 191.272)">
+        <text id="UTILIDAD_DESPUÉS_DE_IMPUESTOS" data-name="UTILIDAD DESPUÉS DE IMPUESTOS" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">UTILIDAD DESPUÉS DE IMPUESTOS</tspan></text>
+      </g>
+      <g id="Grupo_1085425" data-name="Grupo 1085425" transform="translate(26.479 220.119)">
+        <text id="Ajuste_por_gastos_no_erogables" data-name="Ajuste por gastos no erogables" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ajuste por gastos no erogables</tspan></text>
+      </g>
+      <g id="Grupo_1085426" data-name="Grupo 1085426" transform="translate(26.479 251.786)">
+        <text id="Ingresos_no_sujetos_a_impuestos" data-name="Ingresos no sujetos a impuestos" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ingresos no sujetos a impuestos</tspan></text>
+      </g>
+      <g id="Grupo_1085427" data-name="Grupo 1085427" transform="translate(26.479 282.529)">
+        <text id="Egresos_no_sujetos_a_impuestos" data-name="Egresos no sujetos a impuestos" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Egresos no sujetos a impuestos</tspan></text>
+      </g>
+      <g id="Grupo_1085428" data-name="Grupo 1085428" transform="translate(6.163 336.799)">
+        <text id="_" data-name="= " transform="translate(0 15)" fill="#12263f" font-size="17" font-family="ArialMT, Arial"><tspan x="0" y="0">= </tspan></text>
+      </g>
+      <g id="Grupo_1085429" data-name="Grupo 1085429" transform="translate(27.161 333)">
+        <text id="FLUJO_DE_CAJA" data-name="FLUJO DE CAJA" transform="translate(0 19)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">FLUJO DE CAJA</tspan></text>
+      </g>
+      <g id="Grupo_1085436" data-name="Grupo 1085436" transform="translate(3.64 6.868)" clip-path="url(#clip-path)">
+        <g id="Grupo_1085434" data-name="Grupo 1085434" transform="translate(-21.909 -19.635)">
+          <path id="Trazado_794875" data-name="Trazado 794875" d="M-8-7H491.373V438.782H-8Z" transform="translate(8 7)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Grupo_1085435" data-name="Grupo 1085435" transform="translate(-21.909 -19.635)">
+          <path id="Trazado_794876" data-name="Trazado 794876" d="M-8-7H491.373V438.782H-8Z" transform="translate(8 7)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Grupo_1085437" data-name="Grupo 1085437" transform="translate(3.64 6.868)">
+        <path id="Trazado_794878" data-name="Trazado 794878" d="M.994,6.073H5.559V1.06h4.3V6.073h4.565v4.3H9.856v5.012h-4.3V10.37H.994Z" transform="translate(-0.994 -1.06)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085464" data-name="Grupo 1085464" transform="translate(3.64 228.587)">
+        <path id="Trazado_794878-2" data-name="Trazado 794878" d="M.994,6.073H5.559V1.06h4.3V6.073h4.565v4.3H9.856v5.012h-4.3V10.37H.994Z" transform="translate(-0.994 -1.06)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085465" data-name="Grupo 1085465" transform="translate(3.64 259.191)">
+        <path id="Trazado_794878-3" data-name="Trazado 794878" d="M.994,6.073H5.559V1.06h4.3V6.073h4.565v4.3H9.856v5.012h-4.3V10.37H.994Z" transform="translate(-0.994 -1.06)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085439" data-name="Grupo 1085439" transform="translate(4.373 45.769)" clip-path="url(#clip-path-2)">
+        <g id="Grupo_1085438" data-name="Grupo 1085438" transform="translate(-22.643 -58.535)">
+          <path id="Trazado_794879" data-name="Trazado 794879" d="M-8.5-22.5H490.873V423.282H-8.5Z" transform="translate(8.5 22.5)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <g id="Grupo_1085440" data-name="Grupo 1085440" transform="translate(4.373 45.769)">
+        <path id="Trazado_794881" data-name="Trazado 794881" d="M.8,1.53H11.536V3.821H.8Z" transform="translate(-0.795 -1.53)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085443" data-name="Grupo 1085443" transform="translate(4.373 76.971)" clip-path="url(#clip-path-3)">
+        <g id="Grupo_1085441" data-name="Grupo 1085441" transform="translate(-22.643 -89.737)">
+          <path id="Trazado_794882" data-name="Trazado 794882" d="M-8.5-35.5H490.873V410.282H-8.5Z" transform="translate(8.5 35.5)" fill="url(#linear-gradient-4)"/>
+        </g>
+        <g id="Grupo_1085442" data-name="Grupo 1085442" transform="translate(-22.643 -89.737)">
+          <path id="Trazado_794883" data-name="Trazado 794883" d="M-8.5-35.5H490.873V410.282H-8.5Z" transform="translate(8.5 35.5)" fill="url(#linear-gradient-5)"/>
+        </g>
+      </g>
+      <g id="Grupo_1085444" data-name="Grupo 1085444" transform="translate(4.373 76.971)">
+        <path id="Trazado_794885" data-name="Trazado 794885" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085445" data-name="Grupo 1085445" transform="translate(0 102.942)">
+        <path id="Trazado_794886" data-name="Trazado 794886" d="M0,0H408.562" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      </g>
+      <g id="Grupo_1085447" data-name="Grupo 1085447" transform="translate(4.373 162.23)" clip-path="url(#clip-path-4)">
+        <g id="Grupo_1085446" data-name="Grupo 1085446" transform="translate(-22.643 -174.996)">
+          <path id="Trazado_794887" data-name="Trazado 794887" d="M-8.5-70.5H490.873V375.282H-8.5Z" transform="translate(8.5 70.5)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_1085466" data-name="Grupo 1085466" transform="translate(4.373 296.355)">
+        <path id="Trazado_794889" data-name="Trazado 794889" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+      </g>
+      <g id="Grupo_1085462" data-name="Grupo 1085462" transform="translate(4.373 125.71)">
+        <g id="Grupo_1085460" data-name="Grupo 1085460">
+          <path id="Trazado_794889-2" data-name="Trazado 794889" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_1085461" data-name="Grupo 1085461" transform="translate(0 5.066)">
+          <path id="Trazado_794889-3" data-name="Trazado 794889" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_1085463" data-name="Grupo 1085463" transform="translate(4.373 202.422)">
+        <g id="Grupo_1085460-2" data-name="Grupo 1085460">
+          <path id="Trazado_794889-4" data-name="Trazado 794889" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+        </g>
+        <g id="Grupo_1085461-2" data-name="Grupo 1085461" transform="translate(0 5.066)">
+          <path id="Trazado_794889-5" data-name="Trazado 794889" d="M.8,1.338H11.536V3.344H.8Z" transform="translate(-0.795 -1.338)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_1085449" data-name="Grupo 1085449" transform="translate(0 183.329)">
+        <path id="Trazado_794890" data-name="Trazado 794890" d="M0,0H408.562" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      </g>
+      <g id="Grupo_1085458" data-name="Grupo 1085458" transform="translate(1.218 327.783)">
+        <path id="Trazado_794899" data-name="Trazado 794899" d="M0,0H408.562" transform="translate(0 0)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      </g>
+    </g>
+  </g>
+</svg>
