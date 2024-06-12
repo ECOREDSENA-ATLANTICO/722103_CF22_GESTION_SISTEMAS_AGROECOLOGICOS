@@ -145,61 +145,67 @@
 
     p Estos términos se pueden utilizar en la medida que se vaya incrementando la producción en la capacidad utilizada, hasta el punto en que se utilice toda el área que se tiene disponible colmando la capacidad diseñada.
 
-    .row.my-4
+    .row.my-4.align-items-center
       .col-lg-7
         p En la estimación del tamaño del proyecto se debe pensar en la dimensión del mercado, capacidad financiera, disponibilidad de insumos, la existencia o no de servicios públicos, oferta de transporte, infraestructura vial, voluntad política, planes de desarrollo municipal, líneas productivas priorizadas en el PDEA, etc.
-        .row 
+        .row.p-2.align-items-center(style="background: #DEEBAD")
           .col-lg-3
             figure
-              img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imagen decorativa', width="100px" , height="100px")
           .col-lg-9
-            p Un factor que puede ayudar en la definición del tamaño del proyecto es la relación del mercado con los costos unitarios, si el resultado es que posee los costos mínimos y además tiene la capacidad de satisfacer el crecimiento de la demanda ese será el tamaño adecuado para el proyecto agropecuario.
+            p.mb-0 Un factor que puede ayudar en la definición del tamaño del proyecto es la relación del mercado con los costos unitarios, si el resultado es que posee los costos mínimos y además tiene la capacidad de satisfacer el crecimiento de la demanda ese será el tamaño adecuado para el proyecto agropecuario.
 
+      .col-lg-5
+        figure
+          img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imagen decorativa')
     
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 2.2 Identificación y descripción del proceso
 
-      .col-lg-5
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-
     p En esta etapa se debe realizar una descripción técnica detallada de las actividades, insumos, cantidades, unidades de medida, mano de obra, servicios para la producción, procesos administrativos, cultivo, variedad, especie, raza; aquí es donde debe tener la mayor cantidad de información para la ejecución del proyecto; a continuación, encontrará algunos parámetros que le serán útiles en el momento de realizar esta actividad de formulación:
 
-    .row.mb-4
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-      .col-lg-8
-        p <strong>Proceso productivo del componente agropecuario</strong> (cultivo de arándano, cría y levante de cerdos o el proceso de producción escogido).
-    
-    .row.mb-4
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-      .col-lg-8
-        p <strong>Condiciones ambientales</strong> (identificar variables como temperatura, humedad relativa, régimen y distribución de lluvias, radiación solar, altura sobre el nivel del mar, etc.).
+    .row.my-3
+      .col-lg-10.m-auto
+        .p-3.my-3(style="background: #FFE0D5; border-radius: 10px")
+          .row.align-items-center
+            .col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img16.svg', alt='Imagen decorativa', width='150px', height='150px')
+            .col-lg-8
+              p.mb-0 <strong>Proceso productivo del componente agropecuario</strong> (cultivo de arándano, cría y levante de cerdos o el proceso de producción escogido).
+        
+        .p-3.my-3(style="background: #FFF2BE; border-radius: 10px")
+          .row.align-items-center
+            .col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img17.svg', alt='Imagen decorativa', width='150px', height='150px')
+            .col-lg-8
+              p.mb-0 <strong>Condiciones ambientales</strong> (identificar variables como temperatura, humedad relativa, régimen y distribución de lluvias, radiación solar, altura sobre el nivel del mar, etc.).
 
-    .row.mb-4
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-      .col-lg-8
-        p <strong>Requerimientos nutricionales</strong> (nivel nutricional del suelo, necesidades nutricionales de las plantas, necesidades nutricionales de los semovientes, fertilizantes o abonos orgánicos necesarios, concentrados y porcentaje nutricional necesarios, etc.).
+        .p-3.my-3(style="background: #A9BFB0; border-radius: 10px")
+          .row.align-items-center
+            .col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img18.svg', alt='Imagen decorativa', width='150px', height='150px')
+            .col-lg-8
+              p.mb-0 <strong>Requerimientos nutricionales</strong> (nivel nutricional del suelo, necesidades nutricionales de las plantas, necesidades nutricionales de los semovientes, fertilizantes o abonos orgánicos necesarios, concentrados y porcentaje nutricional necesarios, etc.).
 
-    .row.mb-4
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-      .col-lg-8
-        p <strong>Proceso productivo detallado</strong> (listado de equipos, herramienta o maquinaria, distribución espacial, preparación del suelo, enmiendas, siembra, cantidad de semilla, variedad, disponibilidad, riego, fertilización; pie de cría, raza, instalaciones, agua, tiempo de cría o levante, etc.).
+        .p-3.my-3(style="background: #E2EEB7; border-radius: 10px")
+          .row.mlign-items-center
+              .col-lg-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img19.svg', alt='Imagen decorativa', width='150px', height='150px')
+              .col-lg-8
+                p.mb-0 <strong>Proceso productivo detallado</strong> (listado de equipos, herramienta o maquinaria, distribución espacial, preparación del suelo, enmiendas, siembra, cantidad de semilla, variedad, disponibilidad, riego, fertilización; pie de cría, raza, instalaciones, agua, tiempo de cría o levante, etc.).
 
-    .row.mb-4
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imagen decorativa')
-      .col-lg-8
-        p <strong>Manejo poscosecha o labores de sacrificio, empaque</strong> (listado de equipos, herramienta o maquinaria, distribución espacial, describir las actividades de manera muy detallada).
+        .p-3.my-3(style="background: #FFE0D5; border-radius: 10px")
+          .row.align-items-center
+            .col-lg-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img20.svg', alt='Imagen decorativa', width='150px', height='150px')
+            .col-lg-8
+              p.mb-0 <strong>Manejo poscosecha o labores de sacrificio, empaque</strong> (listado de equipos, herramienta o maquinaria, distribución espacial, describir las actividades de manera muy detallada).
 
 
     Separador
@@ -208,7 +214,7 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img5.svg')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img21.svg')})`}"
       )
 
       .bloque-texto-g__texto.p-4
