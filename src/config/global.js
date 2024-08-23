@@ -67,7 +67,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Estudio Técnico',
+        titulo: 'Estudio técnico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -90,7 +90,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Estudio Administrativo',
+        titulo: 'Estudio administrativo',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -118,12 +118,12 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Estudio Ambiental',
+        titulo: 'Estudio ambiental',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Legislación Ambiental',
+            titulo: 'Legislación ambiental',
             hash: 't_4_1',
           },
           {
@@ -247,7 +247,7 @@ export default {
     {
       referencia:
         'Ruiz, E., Ruiz, M, y Soriano, L.  (2015). Criterios de evaluación de impacto ambiental en el sector minero. Industrial Data, 18(2),99-112.ISSN: 1560-9146. Disponible en:   ',
-      link: 'https://www.redalyc.org/articulo.oa?id=81643819013 ',
+      link: 'https://www.redalyc.org/articulo.oa?id=81643819013',
     },
   ],
   creditos: [
@@ -261,7 +261,7 @@ export default {
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
@@ -272,14 +272,14 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Desarrollo Curricular',
+          cargo: 'Responsable de desarrollo curricular',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
 
         {
           nombre: 'Diana Julieth Núñez Ortegón',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicio - Regional Tolima',
         },
         {
@@ -290,7 +290,7 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológica',
+          cargo: 'Asesora metodológica',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
         {
@@ -323,7 +323,7 @@ export default {
         },
         {
           nombre: 'Rafael Pérez Meriño',
-          cargo: 'Desarrollo Fullstack ',
+          cargo: 'Desarrollo <em>fullstack</em> ',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
@@ -345,7 +345,7 @@ export default {
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Gilberto Herrera',
+          nombre: 'Jairo Valencia Ebratt',
           cargo: 'Validación de diseño y contenido',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',

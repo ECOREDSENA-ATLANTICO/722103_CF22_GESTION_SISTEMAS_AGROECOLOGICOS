@@ -13,12 +13,12 @@
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
       .col-lg-7
-        p.mt-3 El estudio de mercado tiene como finalidad hallar y cuantificar el fragmento de demanda que no ha sido cubierta por la oferta y que puede abastecerse con el producto generado en el proyecto agropecuario.
+        p.mt-3(data-aos="fade-left") El estudio de mercado tiene como finalidad hallar y cuantificar el fragmento de demanda que no ha sido cubierta por la oferta y que puede abastecerse con el producto generado en el proyecto agropecuario.
 
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4.my-3(data-aos="fade-left")(style="background: #CDDAC9")
           p.mb-0 Cuando se hace referencia al mercado, se está hablando de los factores que influyen en este y la comercialización del bien agrícola o pecuario que será objeto del proyecto; para el desarrollo de este estudio se debe hacer referencia de la identificación del bien (piscicultura, ganadería de leche o de carne, cacao, arándano).
 
-    .p En el análisis de mercado es necesario conocer las preferencias de los consumidores, identificar quienes van a proveer los insumos necesarios para el proceso de producción, transporte de insumos y productos, conocer la normatividad que rige el sector o que es necesaria para iniciar el trámite para exportación si es del caso, además de los requerimientos técnicos, sanitarios y legales del país donde va a ser enviado el producto.
+    p(data-aos="fade-right") En el análisis de mercado es necesario conocer las preferencias de los consumidores, identificar quienes van a proveer los insumos necesarios para el proceso de producción, transporte de insumos y productos, conocer la normatividad que rige el sector o que es necesaria para iniciar el trámite para exportación si es del caso, además de los requerimientos técnicos, sanitarios y legales del país donde va a ser enviado el producto.
 
     p.mt-5.text-center.text-bold Se debe recordar que las funciones del mercadeo son:
 
@@ -27,75 +27,75 @@
         div(style="background: #FFF8DA; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img2.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img2.svg', alt='')
             .col-lg-9
-              p.m-0 Ejecutar el mercado tomando en cuenta al <strong>consumidor</strong>.
+              p.m-3(data-aos="fade-left") Ejecutar el mercado tomando en cuenta al <strong>consumidor</strong>.
 
       .col-lg-6
         div(style="background: #EFF5D6; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img3.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img3.svg', alt='')
             .col-lg-9
-              p.m-0 Investigar permanentemente al <strong>consumidor, considerar la competencia, los productos más vendidos y los diferentes mercados.</strong>
+              p.m-3(data-aos="fade-left") Investigar permanentemente al <strong>consumidor, considerar la competencia, los productos más vendidos y los diferentes mercados.</strong>
     .row.mb-2
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img4.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img4.svg', alt='')
             .col-lg-9
-              p.m-0 Seleccionar los clientes importantes y buscar <strong>fidelizarlos.</strong>.
+              p.m-3(data-aos="fade-left") Seleccionar los clientes importantes y buscar <strong>fidelizarlos.</strong>.
 
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img5.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img5.svg', alt='')
             .col-lg-9
-              p.m-0 Explorar los mercados <strong>innovadores.</strong>
+              p.m-3(data-aos="fade-left") Explorar los mercados <strong>innovadores.</strong>
 
     .row.mb-2
       .col-lg-6
         div(style="background: #E1EDB5; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img6.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img6.svg', alt='')
             .col-lg-9
-              p.m-0 Acoplarse y responder rápido a <strong>la innovación.</strong>
+              p.m-3(data-aos="fade-left") Acoplarse y responder rápido a <strong>la innovación.</strong>
 
       .col-lg-6
         div(style="background: #FFF8DA; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img7.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img7.svg', alt='')
             .col-lg-9
-              p.m-0 Proteger el producto de diversas <strong>amenazas del mercado.</strong>
+              p.m-3(data-aos="fade-left") Proteger el producto de diversas <strong>amenazas del mercado.</strong>
 
     .row.mb-5
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img8.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img8.svg', alt='')
             .col-lg-9
-              p.m-0 Realizar y promocionar <strong> la marca.</strong>
+              p.m-3(data-aos="fade-left") Realizar y promocionar <strong> la marca.</strong>
 
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
           .row.align-items-center
             .col-lg-2.pt-1
-              img(src='@/assets/curso/temas/tema1/img9.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img9.svg', alt='')
             .col-lg-9
-              p.m-0 Buscar <strong>liderar el mercado.</strong> (enciclopedia económica, 2021).
+              p.m-3(data-aos="fade-left") Buscar <strong>liderar el mercado.</strong> (enciclopedia económica, 2021).
 
     p.my-4 De manera alterna se debe identificar variables como: <strong>el precio, origen, calidad, disponibilidad en el mercado local o regional</strong> de los insumos que son necesarios para la producción del bien que se pretende producir.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img10.png')})`}")
 
-      .bloque-texto-g__texto.p-4
-        p.mb-0 En el estudio de mercado es imprescindible realizar una descripción del motivo por el cual se realiza el proyecto, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son las condiciones del mercado objetivo, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
+      .bloque-texto-g__texto.p-4(data-aos="fade-right")
+        p.mb-0 En el estudio de mercado es <strong>realizar una descripción del motivo por el cual se realiza el proyecto</strong>, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son <strong>las condiciones del mercado objetivo</strong>, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
@@ -107,9 +107,9 @@
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Imagen decorativa')
 
       .col-lg-7
-        p.mt-3 El primer factor es la identificación del bien, en este aspecto se debe hacer una caracterización detallada de las condiciones que va a presentar el producto en el momento de la venta al destino final; para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario.
+        p.mt-3(data-aos="fade-left") El primer factor es la identificación del bien, en este aspecto se debe hacer una caracterización detallada de las condiciones que va a presentar el producto en el momento de la venta al destino final; para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario.
 
-        .cajon.color-acento-contenido.p-4(style="background: #FFEDE7")
+        .cajon.color-acento-contenido.p-4(data-aos="fade-left")(style="background: #FFEDE7")
           p.mb-0 En Colombia se han identificado tres sectores productivos que son:
 
     .row.my-5
@@ -138,9 +138,9 @@
 
     .row.mb-4
       .col-lg-7
-        p.mt-3 En el estudio de mercado del sector agropecuario (primario), se debe tener en cuenta que los productos o bienes que son objeto de comercialización son organismos vivos, por lo tanto, para la identificación del producto se debe tener en cuenta características que le otorgan valor en el mercado como: el grado de madurez, la firmeza, color, presentación, peso o si es un producto transformado que necesita condiciones de conservación específicas; en este componente se debe identificar los parámetros que generan valor en el producto y o van a diferenciar del producto de la competencia.
+        p.mt-3(data-aos="fade-right") En el estudio de mercado del sector agropecuario (primario), se debe tener en cuenta que los productos o bienes que son objeto de comercialización son organismos vivos, por lo tanto, para la identificación del producto se debe tener en cuenta características que le otorgan valor en el mercado como: el grado de madurez, la firmeza, color, presentación, peso o si es un producto transformado que necesita condiciones de conservación específicas; en este componente se debe identificar los parámetros que generan valor en el producto y o van a diferenciar del producto de la competencia.
 
-        div.p-2(style="background: #EFF3F6; border-radius: 10px")
+        div.p-2(data-aos="fade-right")(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center
             .col-lg-2
               img(src='@/assets/curso/temas/tema1/img16.svg', alt='')
@@ -150,19 +150,19 @@
         figure
           img(src='@/assets/curso/temas/tema1/img17.png', alt='Imagen decorativa')
 
-    .row.my-5.align-items-center
+    .row.my-5.align-items-center(data-aos="fade-left")
       .col-auto
         img(src='@/assets/curso/temas/tema1/img22.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Sector
 
 
-    p.my-5 Aquí se debe identificar el sector productivo al que pertenece el producto o servicio; si pertenece al primario agropecuario se puede clasificar de la siguiente forma:
+    p.my-5(data-aos="fade-left") Aquí se debe identificar el sector productivo al que pertenece el producto o servicio; si pertenece al primario agropecuario se puede clasificar de la siguiente forma:
 
     .row.mb-4
       .col-lg-4.col-md-12
         figure
-          img(src="@/assets/curso/temas/tema1/img18.svg", alt="")
+          img(src="@/assets/curso/temas/tema1/img18.png", alt="")
       .col-lg-8.col-md-12
         .row.py-1.my-2.align-items-center(style="background: #0B481E; width: 30%")
           .col-auto
@@ -170,19 +170,19 @@
           .col-lg-5
             p.m-0.text-bold(style="color: white") Agrícola
         ul.separadores
-          li 
+          li(data-aos="fade-left") 
             i.fas.fa-greater-than
             |  <strong>Frutos:</strong> pomo (manzana y níspero, entre otros), vainas en fresco (frijol y habas, entre otros), cereza (uva y tomate, entre otros), agregado (fresa, mora, frambuesa), colectivo (piña e higo), aguacate, arándano, plátano, banano.
-          li 
+          li(data-aos="fade-left") 
             i.fas.fa-greater-than
             |  <strong>Semillas:</strong> cariópside (trigo, maíz), frijol, arveja, cacao, café.
-          li 
+          li(data-aos="fade-left") 
             i.fas.fa-greater-than
             |  <strong>Estructuras vegetativas:</strong> tallos (apio, palmito y espárragos), hojas (lechuga y acelga, entre otros).
-          li 
+          li(data-aos="fade-left") 
             i.fas.fa-greater-than
             |  <strong>Estructuras reproductivas:</strong> flores ornamentales, coliflor y brócoli.
-          li 
+          li(data-aos="fade-left") 
             i.fas.fa-greater-than
             |  <strong>Estructuras subterráneas:</strong>  raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
 
@@ -194,28 +194,28 @@
           .col-lg-5
             p.m-0.text-bold(style="color: white") Agrícola
         ul.separadores
-          li 
+          li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Subproductos agropecuarios:</strong> huevos, derivados lácteos, cueros.
-          li 
+          li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Especies menores</strong>
-          li 
+          li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Ganado doble propósito</strong>
-          li 
+          li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Ganado lechero</strong>
-          li 
+          li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Ganado para carne.</strong> (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
       .col-lg-4.col-md-12
         figure
-          img(src="@/assets/curso/temas/tema1/img21.svg", alt="")
+          img(src="@/assets/curso/temas/tema1/img21.png", alt="")
     
     .row-mb-5
       .col-lg-10.m-auto
-        .row.align-items-center.grad1.p-2
+        .row.align-items-center.grad1.p-2.justify-content-center
           .col-auto
             figure
               img(src="@/assets/curso/temas/tema1/img23.svg", alt="")
@@ -223,8 +223,8 @@
             h3.text-light Identificación del bien o servicio
             p.mb-0.text-light Estimado aprendiz, para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario. A continuación más detalle a través del siguiente video:
           .col-lg-3.text-center
-            a.boton.boton--b(:href="obtenerLink('')" target="_blank")
-              span Ver video
+            a.boton.boton--b(href="https://www.youtube.com/embed/HIA7aRfcMsw?si=ABjahLrLulgUk3-X')" target="_blank")
+              span Consultar video
               i.fas.fa-solid.fa-video
 
     .row.my-5
@@ -309,9 +309,9 @@
     .row.my-5
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img33.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img33.png', alt='Imagen decorativa')
 
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p.mt-3 Cuando se realiza el estudio de la demanda se hace una labor de búsqueda de información la cual debe ser sistemática, enfocada en registrar eventos como cantidad de producto que puede llegar a ser vendido, cantidad de producto que una comunidad puede llegar a adquirir, analizar los precios, identificar los gustos o preferencias y la capacidad de compra de los consumidores.
 
         .row.p-2(style="background: #DEEBAD;")
@@ -323,34 +323,34 @@
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img35.svg')})`}"
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img35.png')})`}"
         )
 
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos caso en el que se busca una retribución económica satisfaciendo el interés privado o por el contrario puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
 
     .row.my-5.align-items-center
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img36.svg', alt='Imagen decorativa')
+          img.my-3(src='@/assets/curso/temas/tema1/img36.png', alt='Imagen decorativa')
 
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         .cajon.color-acento-botones.p-4(style="background: #FFFAE3")
           p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
 
     .row.mb-4.align-items-center
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right")
         p.mt-3 Otra de las variables que es de gran importancia en el estudio de la demanda es el comportamiento del precio del producto a través de los años; para esto una de las formas de determinar los momentos de mayor o de menor oferta y de mejores o menores precios es utilizando las series de volúmenes de producto comercializado y las series de precios al consumidor.
 
-        .bloque-texto-a.color-acento-contenido.p-4
+        .bloque-texto-a.color-acento-contenido.p-4(data-aos="flip-up")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc.
-            span  - (Miranda, 2005, p.99).
+            mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc.
+            span  <strong> (Miranda, 2005, p.99).</strong>
             i.fas.fa-quote-right
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img37.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img37.png', alt='Imagen decorativa')
 
     p.my-5 La “segmentación” del mercado permite, entonces, organizar y clasificar la demanda, de acuerdo a ciertos y determinados atributos; en efecto, este proceso nos conduce a conocer, entre otros:
 
@@ -359,80 +359,82 @@
         div(style="background: #FFF8DA; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img38.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img38.svg', alt='')
             .col-lg-9
-              p.m-0 El número actual de demandantes.
+              p.m-3(data-aos="fade-left") El número actual de <strong>demandantes</strong>
 
       .col-lg-6
         div(style="background: #EFF5D6; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img39.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img39.svg', alt='')
             .col-lg-9
-              p.m-0 El número potencial estimado de compradores del bien o servicio.
+              p.m-3(data-aos="fade-left") El número potencial estimado de <strong>compradores del bien o servicio.</strong>
 
     .row.mb-4
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img40.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img40.svg', alt='')
             .col-lg-9
-              p.m-0 Los lugares donde suelen hacer las compras los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario)
+              p.m-3(data-aos="fade-left") <strong>Los lugares donde suelen hacer las compras</strong> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario)
 
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img41.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img41.svg', alt='')
             .col-lg-9
-              p.m-0 La ubicación geográfica de los productores y distribuidores.
+              p.m-3(data-aos="fade-left") La <strong>ubicación geográfica</strong> de los productores y distribuidores.
 
     .row.mb-4
       .col-lg-6
         div(style="background: #E1EDB5; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img42.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img42.svg', alt='')
             .col-lg-9
-              p.m-0 Frecuencia con que se efectúan las compras (mensual, semanal, diaria).
+              p.m-3(data-aos="fade-left") Frecuencia con que se efectúan las compras (mensual, semanal, diaria).
 
       .col-lg-6
         div(style="background: #FFF8DA; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img43.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img43.svg', alt='')
             .col-lg-9
-              p.m-0 Motivación y actitudes con respecto a la mercancía adquirida, el ritual de compra.
+              p.m-3(data-aos="fade-left") <strong>Motivación y actitudes</strong> con respecto a la mercancía adquirida, el ritual de compra.
 
     .row.mb-4
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img44.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img44.svg', alt='')
             .col-lg-9
-              p.m-0 Indicadores de cambio en los hábitos de compra.
+              p.m-3(data-aos="fade-left") Indicadores de <strong>cambio en los hábitos de compra.</strong>
 
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
           .row.align-items-center.p-1.card2
             .col-lg-2
-              img(src='@/assets/curso/temas/tema1/img45.svg', alt='')
+              img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img45.svg', alt='')
             .col-lg-9
-              p.m-0 Características de los compradores o usuarios (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p.99).
+              p.m-3(data-aos="fade-left") <strong>Características de los compradores o usuarios</strong> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p.99).
 
-    .row.mb-4
+    .row.mb-4.justify-content-center
       .col-lg-10.m-auto
-        .row.align-items-center.grad1.p-2
+        .row.align-items-center.grad1.p-2.justify-content-center
           .col-auto
             figure
               img(src="@/assets/curso/temas/tema1/img47.svg", alt="")
           .col-lg-7
             h3.text-light Recurso PDF
-            p.text-light.mb-0 Infografía - Identificación de la demanda.
+            p.text-light.mb-1 Infografía - Identificación de la demanda.
           .col-lg-3.text-center
-            button Descargar
+            a.boton.boton--b(:href="obtenerLink('/downloads/infografia_identificacion_demanda.pdf')" target="_blank")
+              span Descargar
+              i.fas.fa-file-download
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -444,20 +446,20 @@
         figure
           img(src='@/assets/curso/temas/tema1/img48.svg', alt='Imagen decorativa')
 
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mt-3 En la identificación de la oferta se busca establecer la cantidad de producto que se necesita para cubrir la demanda o necesidades de una población en el futuro.
 
-        .cajon.color-primario.p-4
+        .cajon.color-acento-botones.p-4(data-aos="fade-left")(style="background: #FFF8DA")
           p.mb-0 En la identificación de la oferta se busca establecer la cantidad de producto que se necesita para cubrir la demanda o necesidades de una población en el futuro; esa no es una labor fácil debido a que para tener una aproximación real es necesario tener la información de la competencia para poder tener una visión global de la cantidad de producto sembrado y por lo tanto estimar la posible cantidad (oferta) de producto a ofrecer.
 
-    .row.mb-4
+    .row.mb-4(data-aos="flip-up")
       .col-lg-10.m-auto
         .bloque-texto-a.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 La oferta es también una variable que depende de otras, tales como: los costos y disponibilidad de los insumos, las restricciones determinadas por el gobierno, los desarrollos tecnológicos, las alteraciones del clima (especialmente en la oferta agrícola y agroindustrial), los precios de los bienes sustitutos y complementarios, la capacidad instalada de la competencia, etc.
+            mb-0 La oferta es también una variable que depende de otras, tales como: los costos y disponibilidad de los insumos, las restricciones determinadas por el gobierno, los desarrollos tecnológicos, las alteraciones del clima (especialmente en la oferta agrícola y agroindustrial), los precios de los bienes sustitutos y complementarios, la capacidad instalada de la competencia, etc.
             i.fas.fa-quote-right
-            span  -  Miranda, 2005, p.112
+            span  <strong>-  Miranda, 2005, p.112</strong>
 
     p.text-center.text-bold.my-5 Para iniciar la identificación de la oferta, es necesario generar una lista con los datos de los proveedores de insumos con la siguiente información:
 
@@ -465,40 +467,40 @@
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img49.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img49.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Nombre de la empresa
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img50.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img50.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Características de su producción (artesanal o industrial)
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img51.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img51.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Precios de los insumos
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img52.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img52.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Participación en el mercado
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img53.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img53.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Sistemas de comercialización
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img54.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img54.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Sistema de ventas (crédito, contado) y canales de comercialización.
       .tarjeta.bgr1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img55.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img55.svg' alt='Imagen muestra la identificación de la oferta , que contiene Icono nombre de la empresa, características de su producción y precios de los insumos.')
         p.text-center Localización
 
-    .row.my-5.m-auto
+    .row.my-5.m-auto(data-aos="flip-up")
       .col-lg-10.m-auto
         .row.align-items-center.p-2(style="background: #EFF3F6; border-radius: 10px")
           .col-auto
@@ -514,11 +516,11 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img65.svg')})`}"
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img65.png')})`}"
         )
 
-      .bloque-texto-g__texto.p-4
-        p.mb-0 En la determinación de precio de los productos se tiene en cuenta el valor de los insumos, condiciones de la oferta y la demanda; una definición de precio es la siguiente: es lo que se da a cambio por un bien o servicio, puede ser el dinero que se entrega por un producto deseado. Es un condicionante, puesto que está sujeto a los precios que maneja la competencia. (Puentes, 2011, p.55). Existen cinco objetivos que se pueden utilizar para la fijación del precio por parte de una empresa o productor:
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
+        p.mb-0 En la determinación de precio de los productos se tiene en cuenta el valor de los insumos, condiciones de la oferta y la demanda; una definición de precio es la siguiente: es lo que se da a cambio por un bien o servicio, puede ser el dinero que se entrega por un producto deseado. Es un condicionante, puesto que está sujeto a los precios que maneja la competencia. (Puentes, 2011, p.55). <strong>Existen cinco objetivos que se pueden utilizar para la fijación del precio por parte de una empresa o productor:</strong>
 
 
     .row.my-4
@@ -549,9 +551,9 @@
 
     p.my-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
 
-    .row.my-5
+    .row.my-5(data-aos="flip-up")
       .col-lg-10.m-auto
-        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen muestra la estrategia de mercado agrícola, conocidas como las cuatros P : Producto , Precio , Plaza , Promoción. Que contiene Interfaz de usuario gráfica.')
 
     .row-my-5
       .col-lg-10.m-auto
@@ -561,16 +563,16 @@
 
         
         figure.my-4
-          img(src='@/assets/curso/temas/tema1/img58.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img58.svg', alt='El gráfico muestra el ciclo de la vida de un producto que son : introducción, crecimiento , madurez y declive.')
         
         figcaption.text-center Nota. Tomado de Martínez (2017)
     .row.my-5.align-items-center
       .col-lg-5        
         figure
-          img(src='@/assets/curso/temas/tema1/img59.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img59.png', alt='Imagen decorativa')
 
-      .col-lg-7
-        .cajon.color-primario.p-4
+      .col-lg-7(data-aos="fade-left")
+        .cajon.color-secundario.p-4(style="background: #EFF5D6")
           p.mb-0 Para definir el producto es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
 
         p.mt-3 El precio también debe estar establecido de acuerdo con la calidad del producto; por ejemplo tres clases de café con combinaciones de calidad y precio diferentes, el primer café de baja calidad que proviene de mezcla de variedades, malas pasillas, mohoso, con fermento y reposado por lo que se comercializa a un precio económico; Una segunda clase de café de calidad media con pocos defectos, pero con sabor a grano verde, posee un precio que corresponde a una adecuada relación precio/calidad; por último un café especial con una prueba de tasa superior a 85 puntos, de tostión y molienda media, proveniente de cafés arábigos y con denominación de origen.
@@ -580,11 +582,11 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Gráfico 2. 
           span Estrategia según precio y calidad.
-        img(src='@/assets/curso/temas/tema1/img60.svg', alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema1/img60.svg', alt='El gráfico, muestra la estrategia según precio y calidad.')
 
       figcaption.text-center Nota. Tomado de Sanchez, L.J. (2021)
 
-    .row.my-5.align-items-center.p-2(style="background: #EFF3F6; border-radius: 10px")
+    .row.my-5.align-items-center.p-2(data-aos="flip-up")(style="background: #EFF3F6; border-radius: 10px")
       .col-auto.m-auto
         figure
           img(src='@/assets/curso/temas/tema1/img61.svg', alt='Imagen decorativa')
@@ -595,24 +597,24 @@
     
     .row.my-5
       .col-lg-6
-        .card3.p-2.text-center.mb-4(style="background: #FFA686")
+        .card3.p-2.text-center.mb-4(data-aos="fade-right")(style="background: #FFA686")
           img.card-img-top(data-aos="zoom-in-up",src='@/assets/curso/temas/tema1/img62.svg', alt='Imagen decorativa')
           .card-body-position
             p Resaltar las características de valor de su producto informando sus beneficios.
       .col-lg-6
-        .card3.p-2.text-center.mb-4(style="background: #ADCE32")
+        .card3.p-2.text-center.mb-4(data-aos="fade-left")(style="background: #ADCE32")
           img.card-img-top(data-aos="zoom-in-up",src='@/assets/curso/temas/tema1/img63.svg', alt='Imagen decorativa')
           .card-body-position
             p Indicar la razón porque su producto es mejor que el de la competencia y por eso deben adquirirlo.
 
     .row.mb-4.align-items-center
       .col-lg-7
-        .cajon.color-acento-botones.p-4(style="background: #FFFAE3")
+        .cajon.color-acento-botones.p-4(data-aos="fade-right")(style="background: #FFFAE3")
           p.mb-0 Con la finalidad de mejorar el precio de venta del producto se debe diseñar la estrategia para la distribución en la plaza o sitio de venta final del producto y los costos que implican realizar esta labor; la idea de este ejercicio es realizar el trabajo que hacen los intermediarios de conocer los contactos para realizar las transacciones y poseer la información de los mercados, además financiar las promociones y agregar valor en tiempo, espacio y volumen para facilitar la comercialización de la mercancía.
 
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img64.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema1/img64.png', alt='Imagen decorativa')
 </template>
 
 <script>

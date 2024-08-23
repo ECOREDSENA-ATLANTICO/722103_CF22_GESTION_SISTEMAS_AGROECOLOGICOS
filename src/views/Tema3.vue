@@ -5,16 +5,16 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Estudio Administrativo
+      h1 Estudio administrativo
 
     .row.my-4.align-items-center
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
 
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         p El objetivo del estudio administrativo es generar herramientas para poder realizar una adecuada administración del proyecto agropecuario que se desee ejecutar, al igual que los estudios de demanda, técnico, financiero, legal y ambiental, tiene alta relevancia, aquí también se plasma la esencia, las causas y lo que se quiere conseguir en la ejecución del proyecto productivo, además genera orden en los procesos, junto con el registro de las diferentes actividades realizadas día a día en la explotación agropecuaria.
-        .row.align-items-center
+        .row.align-items-center.p-3(style="background: #DEEBAD")
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imagen decorativa' width="100px" height="100px")
@@ -27,10 +27,10 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3.svg')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3.png')})`}"
       )
 
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc, a continuación se relaciona una breve descripción de cada uno:
 
     LineaTiempoD.color-acento-contenido.my-5
@@ -40,7 +40,7 @@
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema3/img4.png', alt='Imagen decorativa')
 
       .row(numero="2" titulo="Visión")
         .col-md-6.mb-4.mb-md-0
@@ -48,7 +48,7 @@
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/img5.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema3/img5.png', alt='Imagen decorativa')
 
       .row(numero="3" titulo="Objetivo")
         .col-md-6.mb-4.mb-md-0
@@ -56,15 +56,15 @@
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/img6.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema3/img6.png', alt='Imagen decorativa')
 
       .row(numero="4" titulo="Políticas")
         .col-md-6.mb-4.mb-md-0
-          p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo agrosana entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo agrosana, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo agrosana ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015 cuyas estipulaciones son de obligado cumplimiento. Agrosana, 2015.
+          p Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo AGROSANA entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo AGROSANA, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo AGROSANA ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015 cuyas estipulaciones son de obligado cumplimiento. AGROSANA, 2015.
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/img7.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema3/img7.png', alt='Imagen decorativa')
       
       .row(numero="5" titulo="Valores")
         .col-md-6.mb-4.mb-md-0
@@ -72,7 +72,7 @@
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/img8.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
       
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido
@@ -87,16 +87,18 @@
           .col-lg-7
             h2.text-light Análisis DOFA
             .text-light.mb-0 Es una herramienta o técnica de diagnóstico en procesos de producción y proyectos productivos en la que se identifican las debilidades (D) oportunidades (O) fortalezas (F) y amenazas (A).
-          .col-lg-3.text-center
-            button Descargar
+          .col-lg-3.text-center.mt-3
+            a.boton.boton--b(:href="obtenerLink('/downloads/Infografia_DOFA.pdf')" target="_blank")
+              span Descargar
+              i.fas.fa-file-download
 
     .row.my-5.align-items-center
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema3/img10.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa')
       
-      .col-lg-8
-        .cajon.color-primario.p-4
+      .col-lg-8(data-aos="fade-left")
+        .cajon.color-secundario.p-4(style="background: #DEEBAD")
           p.mb-0 Al finalizar el desarrollo de la herramienta podemos realizar un análisis sobre las fortalezas y debilidades que se identifican dentro del proyecto productivo y también se puede realizar un análisis externo del proyecto oportunidades y amenazas que afectan positiva y negativamente el desarrollo de las actividades del proyecto.
 
     .row.mb-4
@@ -108,14 +110,16 @@
           .col-lg-7
             h2.text-light Herramienta DOFA
             p.m-0.text-light Para conocer más acerca de la herramienta DOFA, puede descargar el siguiente recurso.
-          .col-lg-3.text-center
-            button Descargar
+          .col-lg-3.text-center.mt-3
+            a.boton.boton--b(:href="obtenerLink('/downloads/Analisis de Foda.pdf')" target="_blank")
+              span Descargar
+              i.fas.fa-file-download
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 3.3 Organigrama
 
-    p Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
+    p(data-aos="fade-left") Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
 
     p.text-bold.text-center Para la elaboración del organigrama del proyecto se pueden utilizar los siguientes pasos:
 
@@ -126,7 +130,7 @@
           img.d-lg-none.d-block(src='@/assets/curso/temas/tema3/img13.svg', alt='Imagen decorativa')
     .row.mb-4
       .col-lg-10.m-auto
-        .cajon.color-primario.p-4
+        .cajon.color-secundario.p-4(data-aos="flip-up")(style="background: #DEEBAD")
           p.mb-0 El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.
 
     Separador
@@ -136,21 +140,21 @@
     .row.my-4
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema3/img14.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
 
       .col-lg-7
-        p En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
+        p(data-aos="fade-left") En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
 
     .row.mb-3.align-items-center
       .col-auto
         img(src='@/assets/curso/temas/tema1/img22.png', alt='Imagen decorativa')
       .col.px-0
-        h3.mb-0 Normatividad agropecuaria
+        h3.mb-0(data-aos="fade-left") Normatividad agropecuaria
 
     .row.my-4.align-items-center
       .col-lg-7
-        p Todas las explotaciones agropecuarias del país estén o no formalizadas como empresas están en la obligación de cumplir con una normatividad mínima en aspectos técnicos de sanidad vegetal, animal y agroindustrial; para esto el ICA tiene como misión, “trabajar por la sanidad agropecuaria y la inocuidad agroalimentaria del campo Colombiano”.
-        .row.align-items-center.p-3(style="background: #DEEBAD")
+        p(data-aos="fade-left") Todas las explotaciones agropecuarias del país estén o no formalizadas como empresas están en la obligación de cumplir con una normatividad mínima en aspectos técnicos de sanidad vegetal, animal y agroindustrial; para esto el ICA tiene como misión, “trabajar por la sanidad agropecuaria y la inocuidad agroalimentaria del campo Colombiano”.
+        .row.align-items-center.p-3(data-aos="flip-up")(style="background: #DEEBAD")
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imagen decorativa', width="64px" , height="64px")
@@ -159,7 +163,7 @@
 
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img28.png', alt='Imagen decorativa')
 
     .tabla-b.mb-5(data-aos="zoom-in-up")
       table.text-center
@@ -225,7 +229,7 @@
             td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436,de la comisión de la comunidad andina, y se toman otras determinaciones.
 
     .row.mb-5
-      .col-lg-6
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 200px;")
             .col-lg-3
@@ -234,9 +238,11 @@
             .col-lg-6
               h2.text-light Recurso web
               p.text-light.m-0 Si está interesado en la normatividad para certificarse en buenas prácticas agrícolas y/o buenas prácticas pecuarias, diríjase al siguiente enlace.
-            .col-lg-3
-              button Ver sitio
-      .col-lg-6
+            .col-lg-3.text-center.my-3
+              a.boton.boton--b(href="https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx" target="_blank")
+                span Consultar sitio
+                i.fas.fa-link
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-2(style="min-height: 200px;")
             .col-lg-3
@@ -245,24 +251,26 @@
             .col-lg-6
               h2.text-light Recurso web
               p.text-light.m-0 Para conocer en detalle la normatividad ICA, ingresar al siguiente enlace.
-            .col-lg-3
-              button Ver sitio
+            .col-lg-3.text-center.my-3
+              a.boton.boton--b(href="https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones" target="_blank")
+                span Consultar sitio
+                i.fas.fa-link
 
-    .row.mb-3.align-items-center
+    .row.mb-3.align-items-center(data-aos="fade-left")
       .col-auto
         img(src='@/assets/curso/temas/tema1/img22.png', alt='Imagen decorativa')
       .col.px-0
         h3.mb-0 Tipos de empresas en Colombia
 
-    p En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
+    p(data-aos="fade-left") En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
 
     .row.my-4
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema3/img17.svg', alt='Imagen decorativa')
-      .col-lg-7
+          img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa')
+      .col-lg-7(data-aos="fade-left")
         p En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (cámara de comercio de Medellín, 2021, p3).
-        .row.p-3.align-items-center(style="background: #DEEBAD") 
+        .row.p-3.align-items-center(data-aos="fade-left")(style="background: #DEEBAD") 
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema3/img18.svg', alt='Imagen decorativa', width="64px", height="64px")
@@ -277,7 +285,7 @@
 
     
     .row.my-5
-      .col-lg-6
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 200px;")
             .col-lg-3
@@ -286,9 +294,11 @@
             .col-lg-6
               h2.text-light Recurso web
               p.text-light.m-0 Superintendencia de sociedades. Cartillas y guías.
-            .col-lg-3
-              button Ver sitio
-      .col-lg-6
+            .col-lg-3.text-center.mt-3
+              a.boton.boton--b(href="https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas " target="_blank")
+                span Consultar sitio
+                i.fas.fa-link
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 200px;")
             .col-lg-3
@@ -297,10 +307,12 @@
             .col-lg-6
               h2.text-light Recurso web
               p.text-light.m-0 Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín (2021).
-            .col-lg-3
-              button Ver sitio
+            .col-lg-3.text-center.mt-3
+              a.boton.boton--b(:href="obtenerLink('/downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf')" target="_blank")
+                span Consultar sitio
+                i.fas.fa-link
             
-    .row.mb-3.align-items-center
+    .row.mb-3.align-items-center(data-aos="fade-left")
       .col-auto
         img(src='@/assets/curso/temas/tema1/img22.png', alt='Imagen decorativa')
       .col.px-0
@@ -308,7 +320,7 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img27.svg')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img27.png')})`}"
       )
 
       .bloque-texto-g__texto.p-4
@@ -323,14 +335,16 @@
           .col-lg-6
             h2.text-light Recurso web
             p.text-light Ministerio del trabajo. Tipos de contrato.
-          .col-lg-3.text-center
-            button Ver sitio
+          .col-lg-3.text-center.mt-2
+              a.boton.boton--b(href="https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo" target="_blank")
+                span Consultar sitio
+                i.fas.fa-link
     
-    .cajon.color-primario.p-4
+    .cajon.color-acento-botones.p-4(data-aos="flip-up")(style="background: #FFFAE3")
       p.mb-0 También para conocer a detalle la definición de contrato, tipos de contrato, periodo de prueba, salario y demás características que todo emprendedor debe conocer para conformar una empresa que cumpla con los estándares legales y que aporte al desarrollo social, productivo generando procesos de responsabilidad social empresarial.
 
     .row.my-4
-      .col-lg-6
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 180px;")
             .col-lg-3
@@ -339,9 +353,11 @@
             .col-lg-6
               h2.text-light El contrato de trabajo SENA
               p.text-light Documento SENA. El contrato de trabajo.
-            .col-lg-3
-              button Descargar
-      .col-lg-6
+            .col-lg-3.text-center
+              a.boton.boton--b(:href="obtenerLink('/downloads/Documento_SENA_contrato_trabajo.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 180px;")
             .col-lg-3
@@ -350,18 +366,20 @@
             .col-lg-6
               h2.text-light Recurso PDF
               p.text-light Información y orientación laboral para la población colombiana en situación de retorno.
-            .col-lg-3
-              button Descargar 
+            .col-lg-3.text-center
+              a.boton.boton--b(:href="obtenerLink('/downloads/Informacion _y_orientacion_laboral.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download 
 
     .row.my-5.align-items-center
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema3/img24.svg', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema3/img24.png', alt='Imagen decorativa')
       .col-lg-7
-        p.m-0 El sector agropecuario en Colombia está enmarcado por la informalidad en la contratación de trabajadores del sector rural, para mejorar las condiciones laborales el gobierno nacional bajo la dirección del ministerio de trabajo y protección social expide el decreto 2616 de 2013 que establece la cotización seguridad social para trabajadores que laboren menos de un mes; este decreto ayuda a mejorar condiciones laborales en términos de aporte a pensión, salud y riesgos laborales de trabajadores de campo, además ayuda a la empresa a cumplir con compromisos de responsabilidad social o políticas orientadas a mejorar las condiciones de vida de los habitantes del área de influencia.
+        p.m-0(data-aos="fade-left") El sector agropecuario en Colombia está enmarcado por la informalidad en la contratación de trabajadores del sector rural, para mejorar las condiciones laborales el gobierno nacional bajo la dirección del ministerio de trabajo y protección social expide el decreto 2616 de 2013 que establece la cotización seguridad social para trabajadores que laboren menos de un mes; este decreto ayuda a mejorar condiciones laborales en términos de aporte a pensión, salud y riesgos laborales de trabajadores de campo, además ayuda a la empresa a cumplir con compromisos de responsabilidad social o políticas orientadas a mejorar las condiciones de vida de los habitantes del área de influencia.
         
     .row.my-4
-      .col-lg-6
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 180px;")
             .col-lg-3
@@ -370,9 +388,11 @@
             .col-lg-6
               h2.text-light Recurso PDF
               p.text-light Decreto 2616 del 20 de noviembre de 2013.
-            .col-lg-3
-              button Descargar
-      .col-lg-6
+            .col-lg-3.text-center
+              a.boton.boton--b(:href="obtenerLink('/downloads/DECRETO_2616_20_NOVIEMBRE_2013.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+      .col-lg-6.mt-3
         div.px-2
           .row.align-items-center.grad1.p-3(style="min-height: 180px;")
             .col-lg-3
@@ -381,8 +401,10 @@
             .col-lg-6
               h2.text-light Recurso PDF
               p.text-light Abecé de la contratación por semanas.
-            .col-lg-3
-              button Descargar 
+            .col-lg-3.text-center
+              a.boton.boton--b(:href="obtenerLink('/downloads/abece_cotizacion_por_semanas.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download 
     
 
 </template>
