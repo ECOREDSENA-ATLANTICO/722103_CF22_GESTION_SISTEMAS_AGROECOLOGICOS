@@ -367,7 +367,7 @@
               h2.text-light Recurso PDF
               p.text-light Información y orientación laboral para la población colombiana en situación de retorno.
             .col-lg-3.text-center
-              a.boton.boton--b(:href="obtenerLink('/downloads/Informacion _y_orientacion_laboral.pdf')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/downloads/Informacion_y_orientacion_laboral.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download 
 
