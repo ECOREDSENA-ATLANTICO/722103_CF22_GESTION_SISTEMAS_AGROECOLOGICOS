@@ -346,7 +346,7 @@ export default {
         },
         {
           nombre: 'Jairo Valencia Ebratt',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validación de recursos digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },

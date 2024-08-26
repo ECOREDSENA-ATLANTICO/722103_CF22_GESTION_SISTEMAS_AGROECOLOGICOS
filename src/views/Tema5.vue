@@ -227,7 +227,7 @@
 
         .row.my-3
           figure
-            img(src='@/assets/curso/temas/tema5/img19.svg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema5/img19.svg', alt='En la gráfica del punto de equilibrio se detalla los ingresos, costos, utilidades producidas y vendidas.')
           figcaption.text-center Nota. Baca, G. (2001). 
 
     p.my-5(data-aos="fade-right") El punto de equilibrio permite conocer la solvencia del negocio; si el negocio logra llegar al punto de equilibrio a principios de mes, obtendrá utilidades bastante mayores que si lo alcanza en los últimos días del mes. Puede también darse el caso que termine el mes y que no alcance a cubrir plenamente los costos totales; en ese caso estaría con problemas de liquidez.

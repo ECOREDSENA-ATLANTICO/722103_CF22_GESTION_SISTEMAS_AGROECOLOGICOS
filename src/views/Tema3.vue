@@ -280,7 +280,7 @@
     .row.my-5 
       .col-lg-10.m-auto 
         figure
-          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img19.svg', alt='Imagen decorativa')
+          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img19.svg', alt='Imagen muestra los tipos de sociedades: Sociedad de comandita simple, Sociedad en comandita por acciones, Sociedad de responsabilidad limitada, Sociedad anónima, Sociedad por Acciones Simplificada (SAS) y Empresa unipersonal')
           img.d-lg-none.d-block(src='@/assets/curso/temas/tema3/img20.svg', alt='Imagen decorativa')
 
     
