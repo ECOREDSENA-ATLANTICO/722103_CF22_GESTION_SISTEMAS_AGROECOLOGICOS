@@ -126,7 +126,7 @@
     .row.my-5
       .col-lg-10.m-auto
         figure
-          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img12.svg', alt='Imagen decorativa')
+          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img12.svg', alt='A continuación se puede apreciar en la figura los pasos para la elaboración del organigrama del proyecto -Establecer la cadena de mando.	-Identificar las áreas de trabajo.	-Identificar las funciones de cada una de las áreas.	-Establecer hasta dónde llega la responsabilidad de cada uno de los cargos que se encuentran en cada área.	-Identificar si la relación jerárquica va de arriba hacia abajo o si es horizontal.	-El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.')
           img.d-lg-none.d-block(src='@/assets/curso/temas/tema3/img13.svg', alt='Imagen decorativa')
     .row.mb-4
       .col-lg-10.m-auto
@@ -280,7 +280,7 @@
     .row.my-5 
       .col-lg-10.m-auto 
         figure
-          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img19.svg', alt='Imagen muestra los tipos de sociedades: Sociedad de comandita simple, Sociedad en comandita por acciones, Sociedad de responsabilidad limitada, Sociedad anónima, Sociedad por Acciones Simplificada (SAS) y Empresa unipersonal')
+          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img19.svg', alt='En la siguiente imagen se relaciona, según la cámara de comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.')
           img.d-lg-none.d-block(src='@/assets/curso/temas/tema3/img20.svg', alt='Imagen decorativa')
 
     
