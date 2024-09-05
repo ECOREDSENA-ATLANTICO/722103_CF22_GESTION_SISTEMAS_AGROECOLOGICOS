@@ -122,7 +122,7 @@
     .row.my-4.text-center
       .col-lg-6
         .px-1.my-2
-          .row.align-items-center.grad1.p-3(style="min-height: 180px;")
+          .row.align-items-center.grad1.p-3(style="min-height: 196px;")
             .col-lg-3
               figure
                 img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen decorativa', width="100px", height="100px")

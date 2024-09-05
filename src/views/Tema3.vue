@@ -249,7 +249,7 @@
                 i.fas.fa-link
       .col-lg-6.mt-3
         div.px-2
-          .row.align-items-center.grad1.p-2(style="min-height: 200px;")
+          .row.align-items-center.grad1.p-2(style="min-height: 226px;")
             .col-lg-3
               figure
                 img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa', width="64px", height="64px")
