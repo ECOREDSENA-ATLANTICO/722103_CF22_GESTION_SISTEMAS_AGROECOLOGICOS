@@ -38,11 +38,11 @@
         figure
           img(src='@/assets/curso/temas/tema2/img4.svg', alt='Imagen decorativa')
       .col-lg-9
-        p En el análisis del estudio técnico la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macro localización aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible) el segundo aspecto es la micro localización entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
+        p En el análisis del estudio técnico, la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macrolocalización, aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible), el segundo aspecto es la microlocalización, entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
     
     .row.my-4(data-aos="fade-right")
       .col-lg-8
-        p Al mismo tiempo la decisión de la ubicación del proyecto está relacionado con aspectos financieros, económicos y sociales que pueden tener repercusiones en el desarrollo económico y social de una región en el largo plazo.
+        p Al mismo tiempo, la decisión de la ubicación del proyecto está relacionado con aspectos financieros, económicos y sociales que pueden tener repercusiones en el desarrollo económico y social de una región en el largo plazo.
         .row.align-items-center.p-2(style="background: #FFE9E1")
           .col-lg-2
             figure
@@ -106,10 +106,14 @@
             i.fas.fa-greater-than 
             |  Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región, (Miranda, 2005, p.133.).
     
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido
+      h2(data-aos="fade-left") 2.2 Tamaño
     .row.my-5.align-items-center
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img9.png', alt='Imagen decorativa')
+    
       
       .col-lg-7(data-aos="fade-left")
         p.mt-3 Cuando se habla del tamaño del proyecto se hace referencia a la capacidad que se tiene de producir el bien durante el tiempo que va a durar el proyecto. Para iniciar con este análisis, debe determinarse la unidad de medida del tamaño del proyecto, si es para una planta de faenado la unidad de medida puede ser el número de sacrificios por día, si es un cultivo de flores para exportación, la unidad puede ser el número de ramos exportados por día o por semana.
@@ -117,7 +121,7 @@
         .cajon.color-secundario.p-4(data-aos="fade-left")(style="background: #DEEBAD")
           p.mb-0 Por otro lado, es útil aclarar ciertos términos con respecto a la capacidad del proyecto, podemos distinguir tres situaciones:
 
-    
+  
     .row.mb-4(data-aos="flip-up")
       .col-lg-4.my-3
         .p-2(style="background: #FFF8DA; border-radius: 10px")
@@ -160,8 +164,8 @@
           img(src='@/assets/curso/temas/tema2/img14.png', alt='Imagen decorativa')
     
     Separador
-    #t_2_2.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-left") 2.2 Identificación y descripción del proceso
+    #t_2_3.titulo-segundo.color-acento-contenido
+      h2(data-aos="fade-left") 2.3 Identificación y descripción del proceso
 
     p En esta etapa se debe realizar una descripción técnica detallada de las actividades, insumos, cantidades, unidades de medida, mano de obra, servicios para la producción, procesos administrativos, cultivo, variedad, especie, raza; aquí es donde debe tener la mayor cantidad de información para la ejecución del proyecto; a continuación, encontrará algunos parámetros que le serán útiles en el momento de realizar esta actividad de formulación:
 
@@ -209,8 +213,8 @@
 
 
     Separador
-    #t_2_2.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-left") 2.3 Organización y cronograma
+    #t_2_4.titulo-segundo.color-acento-contenido
+      h2(data-aos="fade-left") 2.4 Organización y cronograma
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(

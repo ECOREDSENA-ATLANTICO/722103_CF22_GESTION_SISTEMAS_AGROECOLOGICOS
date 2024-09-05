@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Formulación y evaluación de proyectos 
-        p.mb-4 #[b Identificar las características financieras de los proyectos, para aplicarlos en el ámbito agroecológico, teniendo en cuenta  sus particularidades.] 
+        p.mb-4 #[ Identificar las características financieras de los proyectos, para aplicarlos en el ámbito agroecológico, teniendo en cuenta  sus particularidades.] 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

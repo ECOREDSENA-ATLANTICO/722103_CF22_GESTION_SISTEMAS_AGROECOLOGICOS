@@ -10,7 +10,7 @@
       h1 Introducción
 
     
-    p Estimado aprendiz bienvenido al componente formativo: formulación y evaluación contemplado dentro del plan de estudios del <strong>Programa Gestión de Sistemas Agroecológicos</strong>, para iniciar lo invitamos a recorrer el siguiente video:     
+    p Estimado aprendiz bienvenido al componente formativo: formulación y evaluación de los componentes de estudio para proyectos agroecológicos contemplado dentro del plan de estudios del programa <strong>Gestión de sistemas agroecológicos</strong>, para iniciar lo invitamos a recorrer el siguiente video:     
     
     figure
       .video

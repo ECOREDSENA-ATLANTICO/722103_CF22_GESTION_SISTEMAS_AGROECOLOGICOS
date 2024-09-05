@@ -7,8 +7,8 @@
         span 1
       h1 Estudio de mercado
 
-    .row
-      .col-lg-5
+    .row.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
@@ -24,69 +24,69 @@
 
     .row.mb-2
       .col-lg-6
-        div(style="background: #FFF8DA; border-radius: 10px")
+        div(style="background: #FFF8DA; border-radius: 10px; min-height: 120px; padding-top: 1.2em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img2.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Ejecutar el mercado tomando en cuenta al <strong>consumidor</strong>.
 
       .col-lg-6
-        div(style="background: #EFF5D6; border-radius: 10px")
+        div(style="background: #EFF5D6; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img3.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Investigar permanentemente al <strong>consumidor, considerar la competencia, los productos más vendidos y los diferentes mercados.</strong>
     .row.mb-2
       .col-lg-6
-        div(style="background: #FFEDE7; border-radius: 10px")
+        div(style="background: #FFEDE7; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img4.svg', alt='')
-            .col-lg-9
-              p.m-3(data-aos="fade-left") Seleccionar los clientes importantes y buscar <strong>fidelizarlos.</strong>.
+            .col-lg-10.col-md-8
+              p.m-3(data-aos="fade-left") Seleccionar los clientes importantes y buscar <strong>fidelizarlos.</strong>
 
       .col-lg-6
-        div(style="background: #EFF3F6; border-radius: 10px")
+        div(style="background: #EFF3F6; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img5.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Explorar los mercados <strong>innovadores.</strong>
 
     .row.mb-2
       .col-lg-6
-        div(style="background: #E1EDB5; border-radius: 10px")
+        div(style="background: #E1EDB5; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img6.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Acoplarse y responder rápido a <strong>la innovación.</strong>
 
       .col-lg-6
-        div(style="background: #FFF8DA; border-radius: 10px")
+        div(style="background: #FFF8DA; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img7.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Proteger el producto de diversas <strong>amenazas del mercado.</strong>
 
     .row.mb-5
       .col-lg-6
-        div(style="background: #EFF3F6; border-radius: 10px")
+        div(style="background: #EFF3F6; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img8.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Realizar y promocionar <strong> la marca.</strong>
 
       .col-lg-6
-        div(style="background: #FFEDE7; border-radius: 10px")
+        div(style="background: #FFEDE7; border-radius: 10px; padding-top: 0.5em; padding-bottom: 0.5em")
           .row.align-items-center
-            .col-lg-2.pt-1
+            .col-lg-2.col-md-4
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img9.svg', alt='')
-            .col-lg-9
+            .col-lg-10.col-md-8
               p.m-3(data-aos="fade-left") Buscar <strong>liderar el mercado.</strong> (enciclopedia económica, 2021).
 
     p.my-4 De manera alterna se debe identificar variables como: <strong>el precio, origen, calidad, disponibilidad en el mercado local o regional</strong> de los insumos que son necesarios para la producción del bien que se pretende producir.
@@ -95,14 +95,14 @@
       .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img10.png')})`}")
 
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 En el estudio de mercado es <strong>realizar una descripción del motivo por el cual se realiza el proyecto</strong>, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son <strong>las condiciones del mercado objetivo</strong>, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
+        p.mb-0 En el estudio de mercado es <strong>imprescindible realizar una descripción del motivo por el cual se realiza el proyecto</strong>, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son <strong>las condiciones del mercado objetivo</strong>, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 1.1 Identificación del bien o servicio
 
-    .row.my-4
-      .col-lg-5
+    .row.my-4.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Imagen decorativa')
 
@@ -136,17 +136,17 @@
             p Sector terciario
             p.text-center O de servicios que realiza actividades de comercialización o prestación de servicios, turismo, educación, transporte, servicios financieros y las TIC.
 
-    .row.mb-4
+    .row.mb-4.justify-content-center
       .col-lg-7
         p.mt-3(data-aos="fade-right") En el estudio de mercado del sector agropecuario (primario), se debe tener en cuenta que los productos o bienes que son objeto de comercialización son organismos vivos, por lo tanto, para la identificación del producto se debe tener en cuenta características que le otorgan valor en el mercado como: el grado de madurez, la firmeza, color, presentación, peso o si es un producto transformado que necesita condiciones de conservación específicas; en este componente se debe identificar los parámetros que generan valor en el producto y o van a diferenciar del producto de la competencia.
 
         div.p-2(data-aos="fade-right")(style="background: #EFF3F6; border-radius: 10px")
           .row.align-items-center
-            .col-lg-2
+            .col-lg-2.col-md-4.col-sm-2
               img(src='@/assets/curso/temas/tema1/img16.svg', alt='')
-            .col-lg-9
+            .col-lg-9.col-md-8.col-sm-8
               p Una posible caracterización para los productos agrícolas y pecuarios es el que se propone a continuación:
-      .col-lg-5
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img17.png', alt='Imagen decorativa')
 
@@ -159,8 +159,8 @@
 
     p.my-5(data-aos="fade-left") Aquí se debe identificar el sector productivo al que pertenece el producto o servicio; si pertenece al primario agropecuario se puede clasificar de la siguiente forma:
 
-    .row.mb-4
-      .col-lg-4.col-md-12
+    .row.mb-4.justify-content-center
+      .col-lg-4.col-md-8
         figure
           img(src="@/assets/curso/temas/tema1/img18.png", alt="")
       .col-lg-8.col-md-12
@@ -186,13 +186,13 @@
             i.fas.fa-greater-than
             |  <strong>Estructuras subterráneas:</strong>  raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
 
-    .row.mb-4
+    .row.mb-4.justify-content-center
       .col-lg-8.col-md-12
         .row.py-1.my-2.align-items-center(style="background: #0B481E; width: 30%")
           .col-auto
               img(src='@/assets/curso/temas/tema1/img20.svg', alt='Imagen decorativa')
           .col-lg-5
-            p.m-0.text-bold(style="color: white") Agrícola
+            p.m-0.text-bold(style="color: white") Pecuario
         ul.separadores
           li(data-aos="fade-right") 
             i.fas.fa-greater-than
@@ -209,7 +209,7 @@
           li(data-aos="fade-right") 
             i.fas.fa-greater-than
             |  <strong>Ganado para carne.</strong> (Puentes, 2011, p.46). Adaptación realizada por el autor, 2021.
-      .col-lg-4.col-md-12
+      .col-lg-4.col-md-8
         figure
           img(src="@/assets/curso/temas/tema1/img21.png", alt="")
     
@@ -229,15 +229,15 @@
 
     .row.my-5
       SlyderA(data-aos="zoom-in-left", tipo="b")
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-right: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Uso
-            p Se debe identificar ¿para qué se usa?, ¿cómo se usa? y ¿cuáles son sus principales aplicaciones? si aplica para el bien o servicio.  (Miranda, 2005, p.92).
+            p Se debe identificar ¿para qué se usa?, ¿cómo se usa?, y ¿cuáles son sus principales aplicaciones?, si aplica para el bien o servicio.  (Miranda, 2005, p.92).
 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img24.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Usuario
             p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p.93)
@@ -245,7 +245,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img25.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em; margin-right: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Presentación
             p La forma de presentación es uno de los factores que más liga al producto con el usuario, y que suele tener alguna importancia en la estructura de costos, es el caso de la leche pasteurizada, por ejemplo, que su precio varía significativamente dependiendo de que su presentación sea en botella, en bolsa, o en caja de cartón. (Miranda, 2005, p.93).
@@ -261,23 +261,23 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img27.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Composición
-            p Si es un producto procesado se indica que insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p.93).
+            p Si es un producto procesado se indica qué insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p.93).
 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img28.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Producto
-            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p.93).
+            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual, no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p.93).
 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img29.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Sustitutos
             p Se debe indicar la existencia y características de otros productos que pueden competir en su consumo. Un bien puede convertirse en sustituto por efectos de cambio en la calidad, en la presentación, en los precios, en el gusto de los consumidores, en la presión publicitaria o a causa de los desarrollos tecnológicos, etc. (Miranda, 2005, p.93).
@@ -285,7 +285,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img30.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Precios y costos
             p El objetivo de establecer los costos y precios es poder usar esos valores que deben ser indagados con los comercializadores a nivel minorista, mayorista y al consumidor final, para establecer los rangos de precios y costos que puede tener el producto para usarlo en la valoración del posible margen de ganancia y precio de comercialización del producto.
@@ -293,7 +293,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img31.png', alt='Imagen decorativa')
-        .row.align-items-center.p-5(style="background:#FFE9E1;")
+        .row.align-items-center.p-5(style="background:#FFE9E1; margin-left: 0.0001em")
           .col-md-6.mb-4.mb-md-0
             h4 Condiciones legales
             p En este ítem debe realizarse una revisión de la normatividad vigente que pueda afectar el proceso de producción y comercialización; por ejemplo la resolución 407 de 2019 en la que establecen los Planes Departamentales de Extensión Agropecuaria PDEA, en los que se priorizan las líneas productivas que van a recibir recursos públicos para inversión; o la resolución del Instituto Colombiano Agropecuario ICA 4174 de 2009 en la que se reglamenta la certificación en buena prácticas agrícolas en la producción primaria de fruta y vegetales para consumo en fresco o incluso, la resolución ICA 448 de 2016 que permite el registro de predios de producción de fruta fresca para exportación y el registro de los exportadores y plantas empacadoras.
@@ -327,7 +327,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos caso en el que se busca una retribución económica satisfaciendo el interés privado o por el contrario puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
+        p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos caso, en el que se busca una retribución económica satisfaciendo el interés privado o, por el contrario, puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
 
     .row.my-5.align-items-center
       .col-lg-5
@@ -361,7 +361,7 @@
             .col-lg-2
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img38.svg', alt='')
             .col-lg-9
-              p.m-3(data-aos="fade-left") El número actual de <strong>demandantes</strong>
+              p.m-3(data-aos="fade-left") El número actual de <strong>demandantes.</strong>
 
       .col-lg-6
         div(style="background: #EFF5D6; border-radius: 10px")
@@ -378,7 +378,7 @@
             .col-lg-2
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img40.svg', alt='')
             .col-lg-9
-              p.m-3(data-aos="fade-left") <strong>Los lugares donde suelen hacer las compras</strong> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario)
+              p.m-3(data-aos="fade-left") <strong>Los lugares donde suelen hacer las compras</strong> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario).
 
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
@@ -547,13 +547,13 @@
 
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-left") 1.5 Estrategia de mercadeo agrícola
+      h2(data-aos="fade-left") 1.5 Estrategia de mercadeo
 
     p.my-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
 
     .row.my-5(data-aos="flip-up")
       .col-lg-10.m-auto
-        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen muestra la estrategia de mercado agrícola, conocidas como las cuatros P : Producto , Precio , Plaza , Promoción. Que contiene Interfaz de usuario gráfica.')
+        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen muestra la estrategia de mercado agrícola, conocidas como las cuatros P: producto ,precio ,plaza ,promoción.')
 
     .row-my-5
       .col-lg-10.m-auto
@@ -563,7 +563,7 @@
 
         
         figure.my-4
-          img(src='@/assets/curso/temas/tema1/img58.svg', alt='El gráfico muestra el ciclo de la vida de un producto que son : introducción, crecimiento , madurez y declive.')
+          img(src='@/assets/curso/temas/tema1/img58.svg', alt='El gráfico muestra el ciclo de la vida de un producto que son: introducción, crecimiento, madurez y declive.')
         
         figcaption.text-center Nota. Tomado de Martínez (2017)
     .row.my-5.align-items-center
@@ -605,7 +605,7 @@
         .card3.p-2.text-center.mb-4(data-aos="fade-left")(style="background: #ADCE32")
           img.card-img-top(data-aos="zoom-in-up",src='@/assets/curso/temas/tema1/img63.svg', alt='Imagen decorativa')
           .card-body-position
-            p Indicar la razón porque su producto es mejor que el de la competencia y por eso deben adquirirlo.
+            p Indicar la razón por la cual su producto es mejor que el de la competencia y por eso deben adquirirlo.
 
     .row.mb-4.align-items-center
       .col-lg-7

@@ -19,7 +19,7 @@
             figure
               img(src='@/assets/curso/temas/tema5/img2.svg', alt='Imagen decorativa', width="100px", height="100px")
           .col-lg-9
-            p.mb-0 La información es sistematizada y organizada por medio de los flujos de caja que expresan los costos e ingresos, con el objetivo de realizar la evaluación del proyecto, por medio de diversas herramientas e indicadores de rentabilidad como se muestra en el siguiente a continuación:
+            p.mb-0 La información es sistematizada y organizada por medio de los flujos de caja que expresan los costos e ingresos, con el objetivo de realizar la evaluación del proyecto, por medio de diversas herramientas e indicadores de rentabilidad como se muestra a continuación:
 
     .row.my-5
       SlyderA(data-aos="zoom-in-left", tipo="b")
@@ -82,21 +82,21 @@
       .col-lg-4.mb-2
         .p-2.h-100(style="background:#E1EDB5; border-radius: 10px")
           figure
-            img.m-auto(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img8.png', alt='La imagen muestra las inversiones y costos como los activos fijos , activos intangibles y capital de trabajo.')
+            img.m-auto(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img8.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
         
           h3.text-center(data-aos="fade-up") Activos fijos
           p.text-center(data-aos="fade-up")  Hace referencia a los bienes materiales como terrenos, obras o construcciones civiles, infraestructura de energía eléctrica, agua potable, comunicaciones y demás servicios, maquinarias, herramientas, muebles, entre otros equipamientos.
       .col-lg-4.mb-2
         .p-2.h-100(style="background:#FFF8DA; border-radius: 10px")
           figure
-            img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img9.png', alt='La imagen muestra las inversiones y costos como los activos fijos , activos intangibles y capital de trabajo.')
+            img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img9.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
         
           h3.text-center(data-aos="fade-up") Activos intangibles
-          p.text-center(data-aos="fade-up")  Son aquellos servicios o derechos adquiridos como licencias, software, patentes, bases de datos, consultorías, permisos, seguros, etc.
+          p.text-center(data-aos="fade-up")  Son aquellos servicios o derechos adquiridos como licencias, <em>software</em>, patentes, bases de datos, consultorías, permisos, seguros, etc.
       .col-lg-4.mb-2
         .p-2.h-100(style="background:#E1EDB5; border-radius: 10px")
           figure
-            img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img10.png', alt='La imagen muestra las inversiones y costos como los activos fijos , activos intangibles y capital de trabajo.')
+            img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img10.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
         
           h3.text-center(data-aos="fade-up") Capital de trabajo
           p.text-center(data-aos="fade-up")   Es el capital adicional representado en efectivo, inventarios y cuentas por cobrar, es decir los activos corrientes, pero también están los pasivos corrientes como deudas con proveedores (insumos, materias primas) y mano de obra para lograr la primera producción.
@@ -127,7 +127,7 @@
           .tarjeta.p-4.bgr2.align-content-center(titulo="De administración")(style="min-height: 250px")
             p Están relacionados los sueldos de personal no solo del área administrativa, sino también de venta, investigación, etc., más los gastos e insumos requeridos para las funciones administrativas de todas las oficinas y dependencias.
           .tarjeta.p-4.bgr2.align-content-center(titulo="Financieros")(style="min-height: 250px")
-            p Se incluyen principalmente el pago intereses derivados de préstamos de capital.
+            p Se incluyen principalmente el pago de intereses derivados de préstamos de capital.
 
     .row.mb-5.align-items-center
       .col-lg-8

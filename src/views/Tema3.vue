@@ -31,7 +31,7 @@
       )
 
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc, a continuación se relaciona una breve descripción de cada uno:
+        p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación se relaciona una breve descripción de cada uno:
 
     LineaTiempoD.color-acento-contenido.my-5
       .row(numero="1" titulo="Misión")
@@ -85,7 +85,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img9.svg', alt='Imagen decorativa' width="64px" height="64px")
           .col-lg-7
-            h2.text-light Análisis DOFA
+            h2.text-light DOFA
             .text-light.mb-0 Es una herramienta o técnica de diagnóstico en procesos de producción y proyectos productivos en la que se identifican las debilidades (D) oportunidades (O) fortalezas (F) y amenazas (A).
           .col-lg-3.text-center.mt-3
             a.boton.boton--b(:href="obtenerLink('/downloads/Infografia_DOFA.pdf')" target="_blank")
@@ -126,7 +126,7 @@
     .row.my-5
       .col-lg-10.m-auto
         figure
-          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img12.svg', alt='A continuación se puede apreciar en la figura los pasos para la elaboración del organigrama del proyecto -Establecer la cadena de mando.	-Identificar las áreas de trabajo.	-Identificar las funciones de cada una de las áreas.	-Establecer hasta dónde llega la responsabilidad de cada uno de los cargos que se encuentran en cada área.	-Identificar si la relación jerárquica va de arriba hacia abajo o si es horizontal.	-El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.')
+          img.d-lg-block.d-none(src='@/assets/curso/temas/tema3/img12.svg', alt='A continuación se puede apreciar los pasos para la elaboración del organigrama del proyecto -Establecer la cadena de mando.	-Identificar las áreas de trabajo.	-Identificar las funciones de cada una de las áreas.	-Establecer hasta dónde llega la responsabilidad de cada uno de los cargos que se encuentran en cada área.	-Identificar si la relación jerárquica va de arriba hacia abajo o si es horizontal.	-El organigrama ayuda a identificar la toma de decisiones con el fin de delegar funciones y diseñar diferentes estrategias.')
           img.d-lg-none.d-block(src='@/assets/curso/temas/tema3/img13.svg', alt='Imagen decorativa')
     .row.mb-4
       .col-lg-10.m-auto
@@ -143,7 +143,7 @@
           img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
 
       .col-lg-7
-        p(data-aos="fade-left") En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
+        p(data-aos="fade-left") En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación.
 
     .row.mb-3.align-items-center
       .col-auto
@@ -159,11 +159,16 @@
             figure
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imagen decorativa', width="64px" , height="64px")
           .col-lg-9
-            p.m-0 Es así como esta entidad realiza asesoría y acompañamiento a los productores agropecuarios del país para la obtención de certificados tales como se relacionan en la siguiente tabla: 
+            p.m-0 Es así como esta entidad realiza asesoría y acompañamiento a los productores agropecuarios del país para la obtención de certificados, tales como se relacionan en la siguiente tabla: 
 
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema3/img28.png', alt='Imagen decorativa')
+
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Tabla 1. 
+      span
+
 
     .tabla-b.mb-5(data-aos="zoom-in-up")
       table.text-center
@@ -178,11 +183,11 @@
 
           tr
             td Resolución 2304 de 2015
-            td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción primaria de ovinos y caprinos destinados al sacrificio paraconsumo humano.
+            td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
 
           tr
             td Resolución ICA 448 de 2016
-            td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación enfresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
+            td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
 
           tr
             td Decreto 616 de 2007
@@ -190,7 +195,7 @@
 
           tr
             td Decreto 1880 de 2011
-            td Por el cual se señalan los requisitos para la comercialización de leche cruda para consumo humano directo en el territorionacional.
+            td Por el cual se señalan los requisitos para la comercialización de leche cruda para consumo humano directo en el territorio nacional.
 
           tr
             td Decreto 1162 de 2010
@@ -218,11 +223,11 @@
 
           tr
             td Resolución 310 de 2009	
-            td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para elaño 2010.
+            td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
           
           tr
             td Resolución 36 de 2009
-            td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicadadiario oficial 47262 de 2009).
+            td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
           
           tr
             td Resolución 1442 de 2008	
@@ -236,8 +241,8 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso web
-              p.text-light.m-0 Si está interesado en la normatividad para certificarse en buenas prácticas agrícolas y/o buenas prácticas pecuarias, diríjase al siguiente enlace.
+              h2.text-light Las Buenas Prácticas Agrícolas
+              p.text-light.m-0 Si está interesado en la normatividad para certificarse en buenas prácticas agrícolas y/o buenas prácticas ganaderas, diríjase al siguiente enlace.
             .col-lg-3.text-center.my-3
               a.boton.boton--b(href="https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx" target="_blank")
                 span Consultar sitio
@@ -249,7 +254,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso web
+              h2.text-light Normas Nacionales
               p.text-light.m-0 Para conocer en detalle la normatividad ICA, ingresar al siguiente enlace.
             .col-lg-3.text-center.my-3
               a.boton.boton--b(href="https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones" target="_blank")
@@ -269,13 +274,13 @@
         figure
           img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa')
       .col-lg-7(data-aos="fade-left")
-        p En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (cámara de comercio de Medellín, 2021, p3).
+        p En el territorio nacional existen dos formas jurídicas que son persona natural, cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica, fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de comercio de Medellín, 2021, p3).
         .row.p-3.align-items-center(data-aos="fade-left")(style="background: #DEEBAD") 
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema3/img18.svg', alt='Imagen decorativa', width="64px", height="64px")
           .col-lg-9
-            p.m-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la cámara de comercio de Medellín, existen las siguientes tipos de sociedades:
+            p.m-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la cámara de comercio de Medellín, existen los siguientes tipos de sociedades:
 
     .row.my-5 
       .col-lg-10.m-auto 
@@ -292,7 +297,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso web
+              h2.text-light Manuales, cartillas y licencias de Uso
               p.text-light.m-0 Superintendencia de sociedades. Cartillas y guías.
             .col-lg-3.text-center.mt-3
               a.boton.boton--b(href="https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas " target="_blank")
@@ -305,7 +310,7 @@
               figure
               img(src='@/assets/curso/temas/tema3/img21.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso web
+              h2.text-light Guía de tipos societarios
               p.text-light.m-0 Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín (2021).
             .col-lg-3.text-center.mt-3
               a.boton.boton--b(:href="obtenerLink('/downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf')" target="_blank")
@@ -333,7 +338,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa', width="64px", height="64px")
           .col-lg-6
-            h2.text-light Recurso web
+            h2.text-light Tipos de contrato de trabajo
             p.text-light Ministerio del trabajo. Tipos de contrato.
           .col-lg-3.text-center.mt-2
               a.boton.boton--b(href="https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo" target="_blank")
@@ -364,7 +369,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img23.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso PDF
+              h2.text-light Orientación laboral
               p.text-light Información y orientación laboral para la población colombiana en situación de retorno.
             .col-lg-3.text-center
               a.boton.boton--b(:href="obtenerLink('/downloads/Informacion_y_orientacion_laboral.pdf')" target="_blank")
@@ -386,7 +391,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img25.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso PDF
+              h2.text-light Decreto 2616 del 20 de noviembre de 2013
               p.text-light Decreto 2616 del 20 de noviembre de 2013.
             .col-lg-3.text-center
               a.boton.boton--b(:href="obtenerLink('/downloads/DECRETO_2616_20_NOVIEMBRE_2013.pdf')" target="_blank")
@@ -399,7 +404,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img26.svg', alt='Imagen decorativa', width="64px", height="64px")
             .col-lg-6
-              h2.text-light Recurso PDF
+              h2.text-light ABECÉ cotización por semanas
               p.text-light Abecé de la contratación por semanas.
             .col-lg-3.text-center
               a.boton.boton--b(:href="obtenerLink('/downloads/abece_cotizacion_por_semanas.pdf')" target="_blank")
