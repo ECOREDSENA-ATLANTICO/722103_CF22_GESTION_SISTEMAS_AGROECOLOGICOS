@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'Este componente formativo comprende el análisis y descripción de los estudios que conforman la formulación y evaluación de los proyectos, entre los que se destacan el de mercadeo, técnico, administrativo, ambiental y financiero.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       // {
       //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -193,7 +193,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/722103_CF22_DU.pdf',
       },
       {
         icono: 'fas fa-download',
