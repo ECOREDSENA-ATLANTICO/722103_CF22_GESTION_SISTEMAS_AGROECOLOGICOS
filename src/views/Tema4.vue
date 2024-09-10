@@ -201,7 +201,7 @@
       span Categorías de diagnóstico.
     .tabla-c.mb-5(data-aos="zoom-in-up")
       table.text-center
-        caption.text-center Nota. Ruiz, E., Ruiz, M, y Soriano, L. (2015). Criterios de evaluación de impacto ambiental en el sector minero. 
+        caption.text-center Nota. Ruiz, E., Ruiz, M, y Soriano, L. (2015).
         thead
           tr
             th(rowspan="4")(style="background: #FFA686") CATEGORÍA

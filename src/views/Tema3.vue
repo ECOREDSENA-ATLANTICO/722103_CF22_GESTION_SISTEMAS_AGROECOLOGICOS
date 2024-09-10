@@ -167,11 +167,10 @@
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 1. 
-      span
-
-
+      span Algunas normas nacionales del sector agropecuario.
     .tabla-b.mb-5(data-aos="zoom-in-up")
       table.text-center
+        caption.text-center Nota. Normatividad nacional Barón (2021). 
         thead(style="background:#FFA686")
           tr
             th Norma

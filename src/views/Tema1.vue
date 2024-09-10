@@ -327,7 +327,7 @@
         )
 
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos caso, en el que se busca una retribución económica satisfaciendo el interés privado o, por el contrario, puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
+        p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos, caso en el que se busca una retribución económica satisfaciendo el interés privado o, por el contrario, puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
 
     .row.my-5.align-items-center
       .col-lg-5
@@ -429,7 +429,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img47.svg", alt="")
           .col-lg-7
-            h3.text-light Recurso PDF
+            h3.text-light  Identificación de la Demanda
             p.text-light.mb-1 Infografía - Identificación de la demanda.
           .col-lg-3.text-center
             a.boton.boton--b(:href="obtenerLink('/downloads/infografia_identificacion_demanda.pdf')" target="_blank")
@@ -547,13 +547,13 @@
 
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido
-      h2(data-aos="fade-left") 1.5 Estrategia de mercadeo
+      h2(data-aos="fade-left") 1.5 Estrategia de mercado
 
     p.my-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
 
     .row.my-5(data-aos="flip-up")
       .col-lg-10.m-auto
-        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen muestra la estrategia de mercado agrícola, conocidas como las cuatros P: producto ,precio ,plaza ,promoción.')
+        img(src='@/assets/curso/temas/tema1/img57.svg', alt='Imagen muestra la estrategia de mercado agrícola, conocidas como las cuatros P: producto, precio, plaza, promoción.')
 
     .row-my-5
       .col-lg-10.m-auto

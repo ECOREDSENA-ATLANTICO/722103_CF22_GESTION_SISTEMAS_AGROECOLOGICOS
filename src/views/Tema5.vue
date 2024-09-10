@@ -127,7 +127,7 @@
           .tarjeta.p-4.bgr2.align-content-center(titulo="De administración")(style="min-height: 250px")
             p Están relacionados los sueldos de personal no solo del área administrativa, sino también de venta, investigación, etc., más los gastos e insumos requeridos para las funciones administrativas de todas las oficinas y dependencias.
           .tarjeta.p-4.bgr2.align-content-center(titulo="Financieros")(style="min-height: 250px")
-            p Se incluyen principalmente el pago de intereses derivados de préstamos de capital.
+            p Se incluyen principalmente el pago e intereses derivados de préstamos de capital.
 
     .row.mb-5.align-items-center
       .col-lg-8
