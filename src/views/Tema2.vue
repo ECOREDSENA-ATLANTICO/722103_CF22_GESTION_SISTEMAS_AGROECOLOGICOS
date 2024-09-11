@@ -15,7 +15,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 El estudio técnico es el momento en que el formulador de proyectos determina las condiciones en la que debe operar el sistema productivo, aquí se indica el tamaño de la explotación agropecuaria, cuánta área debe ser destinada para el cultivo o para el semoviente, cuánta área destino para la poscosecha o para realizar el faenado, localización de la explotación, etc.
 
-    .row.my-5.align-items-center(data-aos="fade-right")
+    .row.justify-content-center.my-5.align-items-center(data-aos="fade-right")
       .col-lg-7
         p La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p.1).
         .row.align-items-center.p-2(style="background: #DEEBAD") 
@@ -25,7 +25,7 @@
           .col-lg-10
             p En este aparte de la formulación de proyectos se debe realizar la descripción del proceso productivo, teniendo en cuenta que debe especificar materiales, insumos, semilla o pie de cría, fertilizantes, concentrado, cantidades, precios, etc. Además, debe indicar la cantidad y costos de la mano de obra, a continuación, vamos a describir brevemente los componentes del estudio técnico:
 
-      .col-lg-5
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
     
@@ -40,22 +40,22 @@
       .col-lg-9
         p En el análisis del estudio técnico, la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macrolocalización, aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible), el segundo aspecto es la microlocalización, entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
     
-    .row.my-4(data-aos="fade-right")
+    .row.justify-content-center.my-4(data-aos="fade-right")
       .col-lg-8
         p Al mismo tiempo, la decisión de la ubicación del proyecto está relacionado con aspectos financieros, económicos y sociales que pueden tener repercusiones en el desarrollo económico y social de una región en el largo plazo.
-        .row.align-items-center.p-2(style="background: #FFE9E1")
-          .col-lg-2
+        .row.justify-content-center.align-items-center.p-2(style="background: #FFE9E1")
+          .col-lg-2.col-md-8
             figure
               img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imagen decorativa')
           .col-lg-10
             p.p-0 Con el fin de establecer un método sencillo para cuantificar variables con las que se pueda determinar la ubicación de un proyecto, se pueden utilizar las siguientes:
 
-      .col-lg-4
+      .col-lg-4.col-md-8.d-none
         figure
           img(src='@/assets/curso/temas/tema2/img5.png', alt='Imagen decorativa')
 
-    .row.my-4
-      .col-lg-4
+    .row.my-4.justify-content-center
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='Imagen decorativa')
       
@@ -109,8 +109,8 @@
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 2.2 Tamaño
-    .row.my-5.align-items-center
-      .col-lg-5
+    .row.my-5.justify-content-center.align-items-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img9.png', alt='Imagen decorativa')
     
@@ -149,7 +149,7 @@
 
     p(data-aos="fade-right") Estos términos se pueden utilizar en la medida que se vaya incrementando la producción en la capacidad utilizada, hasta el punto en que se utilice toda el área que se tiene disponible colmando la capacidad diseñada.
 
-    .row.my-4.align-items-center(data-aos="fade-right")
+    .row.justify-content-center.my-4.align-items-center(data-aos="fade-right")
       .col-lg-7
         p En la estimación del tamaño del proyecto se debe pensar en la dimensión del mercado, capacidad financiera, disponibilidad de insumos, la existencia o no de servicios públicos, oferta de transporte, infraestructura vial, voluntad política, planes de desarrollo municipal, líneas productivas priorizadas en el PDEA, etc.
         .row.p-2.align-items-center(style="background: #DEEBAD")
@@ -159,7 +159,7 @@
           .col-lg-9
             p.mb-0 Un factor que puede ayudar en la definición del tamaño del proyecto es la relación del mercado con los costos unitarios, si el resultado es que posee los costos mínimos y además tiene la capacidad de satisfacer el crecimiento de la demanda ese será el tamaño adecuado para el proyecto agropecuario.
 
-      .col-lg-5
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img14.png', alt='Imagen decorativa')
     

@@ -209,78 +209,85 @@ export default {
   },
   complementario: [
     {
-      tema: 'Cámara de Comercio de Medellín para Antioquia',
-      referencia: 'Cámara de Comercio de Medellín. 2021',
+      tema: 'Aspecto legal',
+      referencia:
+        'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios.',
       tipo: 'Guía',
       link:
-        'https://www.camaramedellin.com.co/Portals/0/Documentos/2019/GuiaTipoSocietario__FormatoPDF_ago20.pdf',
+        'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
     {
-      tema: 'Análisis de FODA ',
-      referencia: 'FAO. (2018)',
+      tema: 'Análisis DOFA',
+      referencia: 'FAO. (2018). Análisis de FODA',
       tipo: 'Diapositivas',
       link:
         'https://openknowledge.fao.org/server/api/core/bitstreams/83189797-00f4-49ec-ac96-878c4806fa1e/content',
     },
     {
-      tema: 'Las Buenas Prácticas Agrícolas (BPA)',
-      referencia: 'Instituto Colombiano Agropecuario. (2021)',
+      tema: 'Organigrama',
+      referencia:
+        'Instituto Colombiano Agropecuario. (2021). Buenas prácticas agrícolas y ganaderas',
       tipo: 'Resolución',
       link: 'https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx',
     },
     {
-      tema: 'Normas Nacionales',
-      referencia: 'Instituto Colombiano Agropecuario. (2021)',
+      tema: 'Aspecto legal',
+      referencia:
+        'Instituto Colombiano Agropecuario. (2021). Normas nacionales',
       tipo: 'Artículo',
       link:
         'https://www.ica.gov.co/normatividad/normas-nacionales/resoluciones',
     },
     {
-      tema: 'Formulación y evaluación de proyectos agropecuarios ',
-      referencia: 'Puentes, M.G. 2011',
+      tema: 'Aspecto legal',
+      referencia:
+        'Puentes, M.G. 2011. Formulación y evaluación de proyectos agropecuarios',
       tipo: 'Libro',
       link:
         'https://www.ecoeediciones.com/wp-content/uploads/2015/07/Formulacion-y-evaluacion-de-proyectos-agropecuarios-Vista-preliminar-del-libro.pdf',
     },
     {
-      tema: 'Módulo STORM',
-      referencia: 'Superintendencia de sociedades. Cartillas y guías',
+      tema: 'Aspecto legal',
+      referencia: 'Superintendencia de sociedades. CW Cartillas Guías',
       tipo: 'Cartillas y guías',
       link:
-        'https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas',
+        'https://www.supersociedades.gov.co/preview_search_result/-/asset_publisher/y8cpLFNLRnDt/content/cw_%25E2%2580%258Bcartillas-_gu%25C3%25ADas/80312',
     },
     {
-      tema: 'Tipos de contrato laborales',
-      referencia: 'Ministerio del trabajo',
+      tema: 'Aspecto legal',
+      referencia:
+        'Ministerio del trabajo. Conoce los tipos de contrato de trabajo',
       tipo: 'Otro',
       link:
         'https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo',
     },
     {
-      tema:
-        'Cartilla de información y orientación laboral para la población colombiana en situación de retorno',
-      referencia: 'Ministerio del trabajo',
+      tema: 'Aspecto legal',
+      referencia:
+        'Ministerio del trabajo. Cartilla de información y orientación laboral para la población colombiana ensituación de retorno',
       tipo: 'Cartilla',
       link:
         'https://migrantprotection.iom.int/es/resources/leafletbooklet/cartilla-de-informacion-y-orientacion-laboral-para-la-poblacion-colombiana',
     },
     {
-      tema: 'Decreto 2616 del 20 de noviembre de 2013',
-      referencia: 'Presidencia de la república',
+      tema: 'Aspecto legal',
+      referencia:
+        'Presidencia de la república, Decreto 2616 del 20 de noviembre de 2013',
       tipo: 'Resolución',
       link:
         'http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/NOVIEMBRE/20/DECRETO%202616%20DEL%2020%20DE%20NOVIEMBRE%20DE%202013.pdf',
     },
     {
-      tema: 'Abecé de la contratación por semanas',
-      referencia: 'Ministerio del trabajo',
+      tema: 'Aspecto legal',
+      referencia: 'Ministerio del trabajo. Abecé de la cotización por semanas',
       tipo: 'Cartilla',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf',
     },
     {
-      tema: 'Normatividad ambiental y sanitaria',
-      referencia: 'Unidad de Planeación Minero Energética (UPME).',
+      tema: 'Legislación Ambiental',
+      referencia:
+        'Unidad de Planeación Minero Energética (UPME). Normatividad ambiental y sanitaria',
       tipo: 'Normatividad',
       link:
         'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co',
@@ -309,7 +316,7 @@ export default {
     },
     {
       referencia:
-        'Cámara de Comercio de Medellín. (2021). Guías de tipos societarios.',
+        'Cámara de Comercio de Medellín. (2021).Guía de tipos societarios.',
       link:
         'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
@@ -320,11 +327,11 @@ export default {
     },
     {
       referencia:
-        'Enciclopedia Económica (2021). Mercadeo. Funciones del Mercado.',
-      link: '',
+        'Enciclopedia Económica (2021). Mercado: Definición, tipos, participantes y ejemplos.',
+      link: 'https://economipedia.com/definicion/mercado#google_vignette',
     },
     {
-      referencia: 'FAO. (2018). Análisis FODA.',
+      referencia: 'FAO. (2018). Análisis de FODA.',
       link:
         'https://openknowledge.fao.org/server/api/core/bitstreams/83189797-00f4-49ec-ac96-878c4806fa1e/content',
     },
@@ -364,7 +371,7 @@ export default {
       referencia:
         'Ministerio de Trabajo y Protección Social. (2017). Información y Orientación laboral para la población colombiana en situación de retorno.',
       link:
-        'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
+        'https://migrantprotection.iom.int/es/resources/leafletbooklet/cartilla-de-informacion-y-orientacion-laboral-para-la-poblacion-colombiana',
     },
     {
       referencia:

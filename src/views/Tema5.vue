@@ -7,8 +7,8 @@
         span 5
       h1 Estudio financiero
 
-    .row.my-4
-      .col-lg-4
+    .row.my-4.justify-content-center
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema5/img1.png', alt='Imagen decorativa')       
       
@@ -78,22 +78,22 @@
       .col-lg-4.m-auto.text-center
         span.text-bold.p-3(style="background: #ADCE32; border-radius: 10px") Inversión inicial
 
-    .row.mb-4
-      .col-lg-4.mb-2
+    .row.mb-4.justify-content-center
+      .col-lg-4.col-md-8.mb-2
         .p-2.h-100(style="background:#E1EDB5; border-radius: 10px")
           figure
             img.m-auto(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img8.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
         
           h3.text-center(data-aos="fade-up") Activos fijos
           p.text-center(data-aos="fade-up")  Hace referencia a los bienes materiales como terrenos, obras o construcciones civiles, infraestructura de energía eléctrica, agua potable, comunicaciones y demás servicios, maquinarias, herramientas, muebles, entre otros equipamientos.
-      .col-lg-4.mb-2
+      .col-lg-4.col-md-8.mb-2
         .p-2.h-100(style="background:#FFF8DA; border-radius: 10px")
           figure
             img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img9.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
         
           h3.text-center(data-aos="fade-up") Activos intangibles
           p.text-center(data-aos="fade-up")  Son aquellos servicios o derechos adquiridos como licencias, <em>software</em>, patentes, bases de datos, consultorías, permisos, seguros, etc.
-      .col-lg-4.mb-2
+      .col-lg-4.col-md-8.mb-2
         .p-2.h-100(style="background:#E1EDB5; border-radius: 10px")
           figure
             img(data-aos="zoom-in",src='@/assets/curso/temas/tema5/img10.png', alt='La imagen muestra las inversiones y costos como los activos fijos, activos intangibles y capital de trabajo.')
@@ -114,10 +114,10 @@
       h5 Figura 2. 
       span Clasificación de los costos
 
-    .row.my-5.align-items-center
-      .col-lg-4
+    .row.justify-content-center.my-5.align-items-center
+      .col-lg-4.col-md-8
         figure
-          img(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')       
+          img.m-3(src='@/assets/curso/temas/tema5/img12.svg', alt='Imagen decorativa')       
       .col-lg-8
         TabsA.color-primario
           .tarjeta.p-4.bgr2.align-content-center(titulo="De producción")(style="min-height: 250px")
@@ -129,13 +129,13 @@
           .tarjeta.p-4.bgr2.align-content-center(titulo="Financieros")(style="min-height: 250px")
             p Se incluyen principalmente el pago e intereses derivados de préstamos de capital.
 
-    .row.mb-5.align-items-center
+    .row.justify-content-center.mb-5.align-items-center
       .col-lg-8
         .cajon.color-secundario.p-4(data-aos="fade-left")(style="background: #DEEBAD")
           p.mb-0 Adicionalmente, los costos pueden ser analizados y catalogados en dos tipos como lo expresa Jiménez (2010). Los fijos son aquellos que no cambian según el nivel de producción, por ejemplo, arriendo, vigilancia, depreciación de máquinas o seguros. Y los costos variables que son los que aumentan o disminuyen dependiendo del volumen de producción como mano de obra, insumos, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc.
         
         p.my-3(data-aos="fade-left") Con las inversiones iniciales y los diversos costos, se pasa a analizar los beneficios que ofrece el proyecto, por medio de la evaluación financiera o económica, para lo cual existen diversos métodos que al aplicarse brindan un panorama para la toma de decisiones que logren obtener el mayor provecho con lo que se invierte.
-      .col-lg-4
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema5/img13.png', alt='Imagen decorativa')
 
@@ -205,8 +205,8 @@
     #t_5_3.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 5.3 Punto de equilibrio
 
-    .row.mb-4.align-items-center
-      .col-lg-4
+    .row.justify-content-center.mb-4.align-items-center
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema5/img17.png', alt='Imagen decorativa')
       .col-lg-8.mt-3

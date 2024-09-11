@@ -306,16 +306,16 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 1.2 Identificación de la demanda
 
-    .row.my-5
-      .col-lg-5
+    .row.my-5.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img33.png', alt='Imagen decorativa')
 
       .col-lg-7(data-aos="fade-left")
         p.mt-3 Cuando se realiza el estudio de la demanda se hace una labor de búsqueda de información la cual debe ser sistemática, enfocada en registrar eventos como cantidad de producto que puede llegar a ser vendido, cantidad de producto que una comunidad puede llegar a adquirir, analizar los precios, identificar los gustos o preferencias y la capacidad de compra de los consumidores.
 
-        .row.p-2(style="background: #DEEBAD;")
-          .col-lg-3
+        .row.p-2.justify-content-center(style="background: #DEEBAD;")
+          .col-lg-3.col-md-8
             figure
               img(src='@/assets/curso/temas/tema1/img34.svg', alt='Imagen decorativa')
           .col-lg-9
@@ -329,8 +329,8 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 Este depende de la intención del formulador del proyecto, puede ser para la generación de ingresos, caso en el que se busca una retribución económica satisfaciendo el interés privado o, por el contrario, puede plantearse un objetivo que solicite el bienestar de una comunidad (social), en esta caso el proyecto generaría unos impactos positivos en un grupo de personas o región, sin perseguir la retribución económica.
 
-    .row.my-5.align-items-center
-      .col-lg-5
+    .row.my-5.justify-content-center.align-items-center
+      .col-lg-5.col-md-8
         figure
           img.my-3(src='@/assets/curso/temas/tema1/img36.png', alt='Imagen decorativa')
 
@@ -338,7 +338,7 @@
         .cajon.color-acento-botones.p-4(style="background: #FFFAE3")
           p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
 
-    .row.mb-4.align-items-center
+    .row.mb-4.align-items-center.justify-content-center
       .col-lg-7(data-aos="fade-right")
         p.mt-3 Otra de las variables que es de gran importancia en el estudio de la demanda es el comportamiento del precio del producto a través de los años; para esto una de las formas de determinar los momentos de mayor o de menor oferta y de mejores o menores precios es utilizando las series de volúmenes de producto comercializado y las series de precios al consumidor.
 
@@ -348,7 +348,7 @@
             mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc.
             span  <strong> (Miranda, 2005, p.99).</strong>
             i.fas.fa-quote-right
-      .col-lg-5
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img37.png', alt='Imagen decorativa')
 
@@ -357,16 +357,16 @@
     .row.mb-4
       .col-lg-6
         div(style="background: #FFF8DA; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.justify-content-center.align-items-center.p-1.card2
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img38.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") El número actual de <strong>demandantes.</strong>
 
       .col-lg-6
         div(style="background: #EFF5D6; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img39.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") El número potencial estimado de <strong>compradores del bien o servicio.</strong>
@@ -374,16 +374,16 @@
     .row.mb-4
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img40.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") <strong>Los lugares donde suelen hacer las compras</strong> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario).
 
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img41.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") La <strong>ubicación geográfica</strong> de los productores y distribuidores.
@@ -391,16 +391,16 @@
     .row.mb-4
       .col-lg-6
         div(style="background: #E1EDB5; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img42.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") Frecuencia con que se efectúan las compras (mensual, semanal, diaria).
 
       .col-lg-6
         div(style="background: #FFF8DA; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img43.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") <strong>Motivación y actitudes</strong> con respecto a la mercancía adquirida, el ritual de compra.
@@ -408,16 +408,16 @@
     .row.mb-4
       .col-lg-6
         div(style="background: #EFF3F6; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img44.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") Indicadores de <strong>cambio en los hábitos de compra.</strong>
 
       .col-lg-6
         div(style="background: #FFEDE7; border-radius: 10px")
-          .row.align-items-center.p-1.card2
-            .col-lg-2
+          .row.align-items-center.p-1.card2.justify-content-center
+            .col-lg-2.col-md-8
               img(data-aos="flip-up",src='@/assets/curso/temas/tema1/img45.svg', alt='')
             .col-lg-9
               p.m-3(data-aos="fade-left") <strong>Características de los compradores o usuarios</strong> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p.99).
@@ -441,8 +441,8 @@
       h2(data-aos="fade-left") 1.3 Identificación de la oferta
 
 
-    .row.mb-4.align-items-center
-      .col-lg-4
+    .row.mb-4.align-items-center.justify-content-center
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema1/img48.svg', alt='Imagen decorativa')
 
@@ -566,8 +566,8 @@
           img(src='@/assets/curso/temas/tema1/img58.svg', alt='El gráfico muestra el ciclo de la vida de un producto que son: introducción, crecimiento, madurez y declive.')
         
         figcaption.text-center Nota. Tomado de Martínez (2017)
-    .row.my-5.align-items-center
-      .col-lg-5        
+    .row.justify-content-center.my-5.align-items-center
+      .col-lg-5.col-md-8        
         figure
           img(src='@/assets/curso/temas/tema1/img59.png', alt='Imagen decorativa')
 

@@ -7,15 +7,15 @@
         span 3
       h1 Estudio administrativo
 
-    .row.my-4.align-items-center
-      .col-lg-5
+    .row.my-4.align-items-center.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
 
       .col-lg-7(data-aos="fade-left")
         p El objetivo del estudio administrativo es generar herramientas para poder realizar una adecuada administración del proyecto agropecuario que se desee ejecutar, al igual que los estudios de demanda, técnico, financiero, legal y ambiental, tiene alta relevancia, aquí también se plasma la esencia, las causas y lo que se quiere conseguir en la ejecución del proyecto productivo, además genera orden en los procesos, junto con el registro de las diferentes actividades realizadas día a día en la explotación agropecuaria.
-        .row.align-items-center.p-3(style="background: #DEEBAD")
-          .col-lg-3
+        .row.justify-content-center.align-items-center.p-3(style="background: #DEEBAD")
+          .col-lg-3.col-md-8
             figure
               img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imagen decorativa' width="100px" height="100px")
           .col-lg-9
@@ -137,8 +137,8 @@
     #t_3_4.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 3.4 Aspecto legal
 
-    .row.my-4
-      .col-lg-5
+    .row.my-4.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
 
@@ -151,7 +151,7 @@
       .col.px-0
         h3.mb-0(data-aos="fade-left") Normatividad agropecuaria
 
-    .row.my-4.align-items-center
+    .row.justify-content-center.my-4.align-items-center
       .col-lg-7
         p(data-aos="fade-left") Todas las explotaciones agropecuarias del país estén o no formalizadas como empresas están en la obligación de cumplir con una normatividad mínima en aspectos técnicos de sanidad vegetal, animal y agroindustrial; para esto el ICA tiene como misión, “trabajar por la sanidad agropecuaria y la inocuidad agroalimentaria del campo Colombiano”.
         .row.align-items-center.p-3(data-aos="flip-up")(style="background: #DEEBAD")
@@ -161,7 +161,7 @@
           .col-lg-9
             p.m-0 Es así como esta entidad realiza asesoría y acompañamiento a los productores agropecuarios del país para la obtención de certificados, tales como se relacionan en la siguiente tabla: 
 
-      .col-lg-5
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema3/img28.png', alt='Imagen decorativa')
 
@@ -268,8 +268,8 @@
 
     p(data-aos="fade-left") En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
 
-    .row.my-4
-      .col-lg-5
+    .row.my-4.justify-content-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema3/img17.png', alt='Imagen decorativa')
       .col-lg-7(data-aos="fade-left")

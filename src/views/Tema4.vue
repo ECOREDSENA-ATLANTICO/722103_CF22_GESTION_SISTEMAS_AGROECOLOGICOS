@@ -7,8 +7,8 @@
         span 4
       h1 Estudio ambiental
 
-    .row.mb-3.align-items-center
-      .col-lg-5
+    .row.mb-3.justify-content-center.align-items-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')
       
@@ -22,14 +22,14 @@
     #t_4_1.titulo-segundo.color-acento-contenido
       h2(data-aos="fade-left") 4.1 Legislación Ambiental
 
-    .row.mb-4.align-items-center
+    .row.justify-content-center.mb-4.align-items-center
       .col-lg-8
         .cajon.color-secundario.p-4(data-aos="fade-right")(style="background: #DEEBAD")
           p.mb-0 La legislación en Colombia es amplia teniendo en cuenta que regula el uso, sanciones, cuidado y delimitación de los recursos naturales presentes en el territorio nacional, las explotaciones agropecuarias no están exentas de la regulación y control en su uso como de explotación; cada productor es responsable del uso que le dé a los recursos naturales que se encuentran en su predio y debe conocer la normatividad reguladora. Esta normatividad es para el recurso suelo, uso, tenencia y aprovechamiento de las aguas, disposición de residuos sólidos, líquidos y material particulado que se genere del proceso productivo.
         
         p.my-4(data-aos="fade-right") Es importante recordar que en la Constitución Política de Colombia se encuentran las normas y principios ambientales generales, algunos de ellos son:
       
-      .col-lg-4
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
 
@@ -153,8 +153,8 @@
 
     p(data-aos="fade-right") La gestión de proyectos relacionados con los sistemas medioambientales requiere la tipificación, jerarquización y análisis de las problemáticas de origen ambiental,      resultado      de la producción de bienes y servicios, como, por ejemplo, pérdida de biodiversidad, fragmentación de hábitats, contaminación, degradación del suelo y las fuentes hídricas.
 
-    .row.my-4.align-items-center
-      .col-lg-5
+    .row.justify-content-center.my-4.align-items-center
+      .col-lg-5.col-md-8
         figure
           img(src='@/assets/curso/temas/tema4/img5.png', alt='Imagen decorativa')       
       
@@ -186,14 +186,14 @@
             .col-lg-9
               p.mb-0.p-4 Por tanto, el estudio ambiental, busca analizar el ciclo de producción para cuantificar costos ambientales versus los beneficios, por medio del análisis de los impactos ambientales en toda la cadena, es decir obtención y extracción de materias primas, transformación, empaque, embalaje, transporte y uso o consumo. 
 
-    .row.mb-3.align-items-center(data-aos="fade-right")
+    .row.justify-content-center.mb-3.align-items-center(data-aos="fade-right")
       .col-lg-8
         .cajon.color-secundario.p-4(style="background: #DEEBAD")
           p.mb-0 La evaluación de impacto ambiental es una valoración de los efectos que se producen sobre el medio ambiente por un determinado proyecto. Según Ruiz et al. (2015) en su artículo Criterios de evaluación de impacto ambiental en el sector minero,  mencionan que ésta nunca puede ser objetiva, ya que tiene siempre connotaciones subjetivas debido a que la referencia es la calidad ambiental, un concepto subjetivo. (p.101).
 
         p.mt-3 En todo el proceso de evaluación de impacto ambiental se persigue un objetivo claro: valorar      las acciones sobre el entorno de forma que puedan encuadrarse dentro del proceso de toma de decisiones y poder decidir si la realización de un proyecto determinado es o no aceptable desde un punto de vista ambiental. Para poder realizar esta evaluación en la siguiente tabla se puede observar las categorías de diagnóstico:  
 
-      .col-lg-4
+      .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -201,7 +201,7 @@
       span Categorías de diagnóstico.
     .tabla-c.mb-5(data-aos="zoom-in-up")
       table.text-center
-        caption.text-center Nota. Ruiz, E., Ruiz, M, y Soriano, L. (2015).
+        caption.text-center  Nota. Ruiz, E., Ruiz, M, y Soriano, L. (2015).
         thead
           tr
             th(rowspan="4")(style="background: #FFA686") CATEGORÍA
