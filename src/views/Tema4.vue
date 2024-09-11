@@ -127,7 +127,7 @@
               figure
                 img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen decorativa', width="100px", height="100px")
             .col-lg-6
-              h2.text-light Legislación Ambiental
+              h2.text-light Legislación ambiental
               p.text-light Infografía - Legislación Ambiental.
             .col-lg-3.text-center
               a.boton.boton--b(:href="obtenerLink('/downloads/Infografia_Legislacion_Ambiental.pdf')" target="_blank")

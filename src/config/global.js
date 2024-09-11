@@ -224,7 +224,7 @@ export default {
         'https://openknowledge.fao.org/server/api/core/bitstreams/83189797-00f4-49ec-ac96-878c4806fa1e/content',
     },
     {
-      tema: 'Organigrama',
+      tema: 'Aspecto legal',
       referencia:
         'Instituto Colombiano Agropecuario. (2021). Buenas prácticas agrícolas y ganaderas',
       tipo: 'Resolución',
@@ -264,7 +264,7 @@ export default {
     {
       tema: 'Aspecto legal',
       referencia:
-        'Ministerio del trabajo. Cartilla de información y orientación laboral para la población colombiana ensituación de retorno',
+        'Ministerio del trabajo. Cartilla de información y orientación laboral para la población colombiana en situación de retorno',
       tipo: 'Cartilla',
       link:
         'https://migrantprotection.iom.int/es/resources/leafletbooklet/cartilla-de-informacion-y-orientacion-laboral-para-la-poblacion-colombiana',
@@ -285,7 +285,7 @@ export default {
         'https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf',
     },
     {
-      tema: 'Legislación Ambiental',
+      tema: 'Legislación ambiental',
       referencia:
         'Unidad de Planeación Minero Energética (UPME). Normatividad ambiental y sanitaria',
       tipo: 'Normatividad',
@@ -395,12 +395,12 @@ export default {
     },
     {
       referencia:
-        'Universidad Autónoma de México. Estudio Técnico. Facultad de Economía. (pp.53-93).',
+        'Universidad Autónoma de México. Estudio técnico. Facultad de Economía. (pp.53-93).',
       link: 'http://www.economia.unam.mx/secss/docs/tesisfe/GomezAM/cap2a.pdf',
     },
     {
       referencia:
-        'Unidad de Planeación Minero Energética UPME. (2021). Normatividad Ambiental y Sanitaria.',
+        'Unidad de Planeación Minero Energética UPME. (2021). Normatividad ambiental y sanitaria.',
       link:
         'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co',
     },
