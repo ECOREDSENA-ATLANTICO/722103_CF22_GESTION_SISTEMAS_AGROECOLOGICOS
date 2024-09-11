@@ -211,7 +211,7 @@ export default {
     {
       tema: 'Aspecto legal',
       referencia:
-        'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios.',
+        'Cámara de Comercio de Medellín. 2021. Guías de tipos societarios',
       tipo: 'Guía',
       link:
         'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
